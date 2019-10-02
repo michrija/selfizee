@@ -1,0 +1,1 @@
+ALTER TABLE `configuration_bornes` CHANGE `catalogue_id` `catalogue_id` INT(11) NULL;

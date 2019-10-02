@@ -1,0 +1,1 @@
+UPDATE `type_champs` SET `nom` = 'Liste déroulante' WHERE `type_champs`.`id` = 5;

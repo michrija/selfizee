@@ -1,0 +1,1 @@
+ALTER TABLE `evenement_creas` ADD `file_put_content` VARCHAR(150) NULL DEFAULT NULL AFTER `canvas_elements`;

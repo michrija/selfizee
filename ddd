@@ -1,0 +1,8 @@
+gitlab_rails['omniauth_enabled'] = true gitlab_rails['omniauth_providers'] = [
+  {
+    "name" => "bitbucket",
+    "app_id" => "wzaBYVA9UCk9M4eZun",
+    "app_secret" => "rqpZTKyq4yYNAg8JxbcZQ6tyqp3W7tmE",
+    "url" => "https://bitbucket.org/"
+  }
+]

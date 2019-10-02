@@ -1,0 +1,1 @@
+ALTER TABLE `evenements` ADD `print_counter` INT NULL DEFAULT '0' AFTER `lieu`; 

@@ -1,0 +1,1878 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-08-27 08:16+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /Controller/ClientsController.php:60;85
+msgid "The client has been saved."
+msgstr ""
+
+#: /Controller/ClientsController.php:64;89
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/ClientsController.php:106
+msgid "The client has been deleted."
+msgstr ""
+
+#: /Controller/ClientsController.php:108
+msgid "The client could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/ContactsController.php:75;100
+msgid "The contact has been saved."
+msgstr ""
+
+#: /Controller/ContactsController.php:79;104
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/ContactsController.php:122
+msgid "The contact has been deleted."
+msgstr ""
+
+#: /Controller/ContactsController.php:124;142;160
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/ContactsController.php:140
+msgid "All selected contact has been deleted."
+msgstr ""
+
+#: /Controller/ContactsController.php:158
+msgid "All  contacts has been deleted."
+msgstr ""
+
+#: /Controller/CronsController.php:96;122
+msgid "The cron has been saved."
+msgstr ""
+
+#: /Controller/CronsController.php:100;126
+msgid "The cron could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/CronsController.php:145
+msgid "The cron has been deleted."
+msgstr ""
+
+#: /Controller/CronsController.php:147
+msgid "The cron could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/CsvColonnePositionsController.php:66;92
+msgid "The csv colonne position has been saved."
+msgstr ""
+
+#: /Controller/CsvColonnePositionsController.php:70;96
+msgid "The csv colonne position could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/CsvColonnePositionsController.php:115
+msgid "The csv colonne position has been deleted."
+msgstr ""
+
+#: /Controller/CsvColonnePositionsController.php:117
+msgid "The csv colonne position could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/CsvColonnesController.php:55;79
+msgid "The csv colonne has been saved."
+msgstr ""
+
+#: /Controller/CsvColonnesController.php:59;83
+msgid "The csv colonne could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/CsvColonnesController.php:100
+msgid "The csv colonne has been deleted."
+msgstr ""
+
+#: /Controller/CsvColonnesController.php:102
+msgid "The csv colonne could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/EmailConfigurationsController.php:63;88
+msgid "The email configuration has been saved."
+msgstr ""
+
+#: /Controller/EmailConfigurationsController.php:67;92
+msgid "The email configuration could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/EmailConfigurationsController.php:109
+msgid "The email configuration has been deleted."
+msgstr ""
+
+#: /Controller/EmailConfigurationsController.php:111
+msgid "The email configuration could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/EnvoisController.php:58;83
+msgid "The envois has been saved."
+msgstr ""
+
+#: /Controller/EnvoisController.php:62;87
+msgid "The envois could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/EnvoisController.php:105
+msgid "The envois has been deleted."
+msgstr ""
+
+#: /Controller/EnvoisController.php:107
+msgid "The envois could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/EvenementsController.php:151;197
+msgid "The evenement has been saved."
+msgstr ""
+
+#: /Controller/EvenementsController.php:161;201
+msgid "The evenement could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/EvenementsController.php:219
+msgid "The evenement has been deleted."
+msgstr ""
+
+#: /Controller/EvenementsController.php:221
+msgid "The evenement could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/FacebookAutoSuivisController.php:58;84
+msgid "The facebook auto suivi has been saved."
+msgstr ""
+
+#: /Controller/FacebookAutoSuivisController.php:62;88
+msgid "The facebook auto suivi could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/FacebookAutoSuivisController.php:107
+msgid "The facebook auto suivi has been deleted."
+msgstr ""
+
+#: /Controller/FacebookAutoSuivisController.php:109
+msgid "The facebook auto suivi could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:56
+msgid "Les deux champs sont obligatoire."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:118
+msgid "Veuillez fournir les deux champs."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:126;150
+msgid "Une erreur s'est produite. Veuillez réessayer."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:143
+msgid "Le nom du nouvel album ne peut pas être vide."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:163
+msgid "Configuration ajoutée avec succès."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:167;199;224
+msgid "The facebook auto could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:195;220
+msgid "The facebook auto has been saved."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:266
+msgid "The facebook auto has been deleted."
+msgstr ""
+
+#: /Controller/FacebookAutosController.php:268
+msgid "The facebook auto could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/GalerieCommentairesController.php:75;100
+msgid "The galerie commentaire has been saved."
+msgstr ""
+
+#: /Controller/GalerieCommentairesController.php:79;104
+msgid "The galerie commentaire could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/GalerieCommentairesController.php:122
+msgid "The galerie commentaire has been deleted."
+msgstr ""
+
+#: /Controller/GalerieCommentairesController.php:124
+msgid "The galerie commentaire could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/GaleriesController.php:130;196
+msgid "The galery has been saved."
+msgstr ""
+
+#: /Controller/GaleriesController.php:134;200
+msgid "The galery could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/GaleriesController.php:218
+msgid "The galery has been deleted."
+msgstr ""
+
+#: /Controller/GaleriesController.php:220
+msgid "The galery could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/IntervallesController.php:55;79
+msgid "The intervalle has been saved."
+msgstr ""
+
+#: /Controller/IntervallesController.php:59;83
+msgid "The intervalle could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/IntervallesController.php:100
+msgid "The intervalle has been deleted."
+msgstr ""
+
+#: /Controller/IntervallesController.php:102
+msgid "The intervalle could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/PageSouvenirsController.php:77;130
+msgid "The page souvenir has been saved."
+msgstr ""
+
+#: /Controller/PageSouvenirsController.php:81;134
+msgid "The page souvenir could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/PageSouvenirsController.php:151
+msgid "The page souvenir has been deleted."
+msgstr ""
+
+#: /Controller/PageSouvenirsController.php:153
+msgid "The page souvenir could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/PhotoCommentairesController.php:75;99
+msgid "The photo commentaire has been saved."
+msgstr ""
+
+#: /Controller/PhotoCommentairesController.php:78;103
+msgid "The photo commentaire could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/PhotoCommentairesController.php:121
+msgid "The photo commentaire has been deleted."
+msgstr ""
+
+#: /Controller/PhotoCommentairesController.php:123
+msgid "The photo commentaire could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/PhotosController.php:122
+msgid "The photo has been saved."
+msgstr ""
+
+#: /Controller/PhotosController.php:126
+msgid "The photo could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/PhotosController.php:145;228
+msgid "The photo has been deleted."
+msgstr ""
+
+#: /Controller/PhotosController.php:147;230
+msgid "The photo could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/PhotosController.php:159
+msgid "Photo restaurée."
+msgstr ""
+
+#: /Controller/PhotosController.php:161
+msgid "Please, try again."
+msgstr ""
+
+#: /Controller/PhotosController.php:180
+msgid "Toute est supprimée."
+msgstr ""
+
+#: /Controller/PhotosController.php:198
+msgid "La corbeille est vidée."
+msgstr ""
+
+#: /Controller/PhotosController.php:217
+msgid "Toutes les photos sont restaurées."
+msgstr ""
+
+#: /Controller/PhotosController.php:364
+msgid "Import réussi : "
+msgstr ""
+
+#: /Controller/PhotosController.php:366
+msgid "Toutes les photos du CSV sont importées"
+msgstr ""
+
+#: /Controller/PhotosController.php:382
+msgid "Le Fichier CSV n'est pas trouvé."
+msgstr ""
+
+#: /Controller/RolesController.php:55;79
+msgid "The role has been saved."
+msgstr ""
+
+#: /Controller/RolesController.php:59;83
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/RolesController.php:100
+msgid "The role has been deleted."
+msgstr ""
+
+#: /Controller/RolesController.php:102
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/RsConfigurationsController.php:66;91
+msgid "The rs configuration has been saved."
+msgstr ""
+
+#: /Controller/RsConfigurationsController.php:70;95
+msgid "The rs configuration could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/RsConfigurationsController.php:113
+msgid "The rs configuration has been deleted."
+msgstr ""
+
+#: /Controller/RsConfigurationsController.php:115
+msgid "The rs configuration could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/SmsConfigurationsController.php:63;88
+msgid "The sms configuration has been saved."
+msgstr ""
+
+#: /Controller/SmsConfigurationsController.php:67;92
+msgid "The sms configuration could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/SmsConfigurationsController.php:109
+msgid "The sms configuration has been deleted."
+msgstr ""
+
+#: /Controller/SmsConfigurationsController.php:111
+msgid "The sms configuration could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/UsersController.php:59;87
+msgid "The user has been saved."
+msgstr ""
+
+#: /Controller/UsersController.php:63;91
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /Controller/UsersController.php:112
+msgid "The user has been deleted."
+msgstr ""
+
+#: /Controller/UsersController.php:114
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: /Controller/UsersController.php:139;143
+msgid "Identifiant incorrecte"
+msgstr ""
+
+#: /Controller/UsersController.php:156
+msgid "Nom d'utilisateur ou mot de passe incorrect"
+msgstr ""
+
+#: /Controller/UsersController.php:165
+msgid "You have been disconnected."
+msgstr ""
+
+#: /Shell/PhotoShell.php:132
+msgid "Import r�ussi : "
+msgstr ""
+
+#: /Shell/PhotoShell.php:135
+msgid "Toutes les photos du CSV sont import�es"
+msgstr ""
+
+#: /Shell/PhotoShell.php:139
+msgid "Le Fichier CSV n'est pas trouv�."
+msgstr ""
+
+#: /Template/Clients/add.ctp:30
+#: /Template/Clients/edit.ctp:30
+msgid "Information"
+msgstr ""
+
+#: /Template/Clients/index.ctp:50
+#: /Template/Clients/view.ctp:79;116
+#: /Template/Crons/index.ctp:50
+#: /Template/CsvColonnePositions/liste.ctp:46
+#: /Template/CsvColonnes/index.ctp:36
+#: /Template/CsvColonnes/view.ctp:61
+#: /Template/EmailConfigurations/index.ctp:44
+#: /Template/EmailConfigurations/view.ctp:85
+#: /Template/Envois/index.ctp:40
+#: /Template/FacebookAutoSuivis/index.ctp:40
+#: /Template/FacebookAutos/view.ctp:73
+#: /Template/Galeries/index.ctp:56
+#: /Template/Intervalles/index.ctp:36
+#: /Template/Intervalles/view.ctp:69
+#: /Template/PageSouvenirs/index.ctp:42
+#: /Template/PageSouvenirs/view.ctp:77
+#: /Template/Photos/index.ctp:43
+#: /Template/Roles/index.ctp:36
+#: /Template/Roles/view.ctp:67
+#: /Template/RsConfigurations/index.ctp:38
+#: /Template/SmsConfigurations/index.ctp:40
+#: /Template/SmsConfigurations/view.ctp:73
+#: /Template/Users/index.ctp:52
+msgid "Edit"
+msgstr ""
+
+#: /Template/Clients/index.ctp:51
+#: /Template/Clients/view.ctp:80;117
+#: /Template/Contacts/edit.ctp:11
+#: /Template/Contacts/liste.ctp:132
+#: /Template/Crons/edit.ctp:11
+#: /Template/Crons/index.ctp:51
+#: /Template/CsvColonnePositions/liste.ctp:47
+#: /Template/CsvColonnes/edit.ctp:11
+#: /Template/CsvColonnes/index.ctp:37
+#: /Template/CsvColonnes/view.ctp:62
+#: /Template/EmailConfigurations/edit.ctp:11
+#: /Template/EmailConfigurations/index.ctp:45
+#: /Template/EmailConfigurations/view.ctp:86
+#: /Template/Envois/edit.ctp:11
+#: /Template/Envois/index.ctp:41
+#: /Template/FacebookAutoSuivis/edit.ctp:11
+#: /Template/FacebookAutoSuivis/index.ctp:41
+#: /Template/FacebookAutos/edit.ctp:11
+#: /Template/FacebookAutos/liste.ctp:64
+#: /Template/FacebookAutos/view.ctp:74
+#: /Template/GalerieCommentaires/edit.ctp:11
+#: /Template/Galeries/index.ctp:57
+#: /Template/Intervalles/edit.ctp:11
+#: /Template/Intervalles/index.ctp:37
+#: /Template/Intervalles/view.ctp:70
+#: /Template/PageSouvenirs/edit.ctp:11
+#: /Template/PageSouvenirs/index.ctp:43
+#: /Template/PageSouvenirs/view.ctp:78
+#: /Template/PhotoCommentaires/edit.ctp:11
+#: /Template/Photos/edit.ctp:11
+#: /Template/Photos/index.ctp:44
+#: /Template/Roles/edit.ctp:11
+#: /Template/Roles/index.ctp:37
+#: /Template/Roles/view.ctp:68
+#: /Template/RsConfigurations/edit.ctp:11
+#: /Template/RsConfigurations/index.ctp:39
+#: /Template/SmsConfigurations/edit.ctp:11
+#: /Template/SmsConfigurations/index.ctp:41
+#: /Template/SmsConfigurations/view.ctp:74
+#: /Template/Users/edit.ctp:11
+#: /Template/Users/index.ctp:53
+msgid "Delete"
+msgstr ""
+
+#: /Template/Clients/index.ctp:51
+#: /Template/Contacts/liste.ctp:132
+#: /Template/FacebookAutos/liste.ctp:64
+#: /Template/Galeries/index.ctp:57
+#: /Template/Photos/liste.ctp:65
+msgid "Are you sure you want to delete ?"
+msgstr ""
+
+#: /Template/Clients/index.ctp:61
+#: /Template/Contacts/liste.ctp:142
+#: /Template/Crons/index.ctp:59
+#: /Template/CsvColonnePositions/liste.ctp:57
+#: /Template/CsvColonnes/index.ctp:45
+#: /Template/EmailConfigurations/index.ctp:53
+#: /Template/Envois/index.ctp:49
+#: /Template/Evenements/index.ctp:70
+#: /Template/FacebookAutoSuivis/index.ctp:49
+#: /Template/Galeries/index.ctp:67
+#: /Template/Intervalles/index.ctp:45
+#: /Template/PageSouvenirs/index.ctp:51
+#: /Template/Photos/corbeille.ctp:68
+#: /Template/Photos/index.ctp:52
+#: /Template/Photos/liste.ctp:80
+#: /Template/Roles/index.ctp:45
+#: /Template/RsConfigurations/index.ctp:47
+#: /Template/SmsConfigurations/index.ctp:49
+#: /Template/Users/index.ctp:61
+msgid "first"
+msgstr ""
+
+#: /Template/Clients/index.ctp:62
+#: /Template/Contacts/liste.ctp:143
+#: /Template/Crons/index.ctp:60
+#: /Template/CsvColonnePositions/liste.ctp:58
+#: /Template/CsvColonnes/index.ctp:46
+#: /Template/EmailConfigurations/index.ctp:54
+#: /Template/Envois/index.ctp:50
+#: /Template/Evenements/index.ctp:71
+#: /Template/FacebookAutoSuivis/index.ctp:50
+#: /Template/Galeries/index.ctp:68
+#: /Template/Intervalles/index.ctp:46
+#: /Template/PageSouvenirs/index.ctp:52
+#: /Template/Photos/corbeille.ctp:69
+#: /Template/Photos/index.ctp:53
+#: /Template/Photos/liste.ctp:81
+#: /Template/Roles/index.ctp:46
+#: /Template/RsConfigurations/index.ctp:48
+#: /Template/SmsConfigurations/index.ctp:50
+#: /Template/Users/index.ctp:62
+msgid "previous"
+msgstr ""
+
+#: /Template/Clients/index.ctp:64
+#: /Template/Contacts/liste.ctp:145
+#: /Template/Crons/index.ctp:62
+#: /Template/CsvColonnePositions/liste.ctp:60
+#: /Template/CsvColonnes/index.ctp:48
+#: /Template/EmailConfigurations/index.ctp:56
+#: /Template/Envois/index.ctp:52
+#: /Template/Evenements/index.ctp:73
+#: /Template/FacebookAutoSuivis/index.ctp:52
+#: /Template/Galeries/index.ctp:70
+#: /Template/Intervalles/index.ctp:48
+#: /Template/PageSouvenirs/index.ctp:54
+#: /Template/Photos/corbeille.ctp:71
+#: /Template/Photos/index.ctp:55
+#: /Template/Photos/liste.ctp:83
+#: /Template/Roles/index.ctp:48
+#: /Template/RsConfigurations/index.ctp:50
+#: /Template/SmsConfigurations/index.ctp:52
+#: /Template/Users/index.ctp:64
+msgid "next"
+msgstr ""
+
+#: /Template/Clients/index.ctp:65
+#: /Template/Contacts/liste.ctp:146
+#: /Template/Crons/index.ctp:63
+#: /Template/CsvColonnePositions/liste.ctp:61
+#: /Template/CsvColonnes/index.ctp:49
+#: /Template/EmailConfigurations/index.ctp:57
+#: /Template/Envois/index.ctp:53
+#: /Template/Evenements/index.ctp:74
+#: /Template/FacebookAutoSuivis/index.ctp:53
+#: /Template/Galeries/index.ctp:71
+#: /Template/Intervalles/index.ctp:49
+#: /Template/PageSouvenirs/index.ctp:55
+#: /Template/Photos/corbeille.ctp:72
+#: /Template/Photos/index.ctp:56
+#: /Template/Photos/liste.ctp:84
+#: /Template/Roles/index.ctp:49
+#: /Template/RsConfigurations/index.ctp:51
+#: /Template/SmsConfigurations/index.ctp:53
+#: /Template/Users/index.ctp:65
+msgid "last"
+msgstr ""
+
+#: /Template/Clients/view.ctp:9;61;101
+#: /Template/Contacts/edit.ctp:9
+#: /Template/Contacts/liste.ctp:90
+#: /Template/Contacts/view.ctp:9
+#: /Template/Crons/edit.ctp:9
+#: /Template/Crons/index.ctp:9;32
+#: /Template/Crons/view.ctp:9
+#: /Template/CsvColonnePositions/liste.ctp:37
+#: /Template/CsvColonnePositions/view.ctp:9
+#: /Template/CsvColonnes/add.ctp:9
+#: /Template/CsvColonnes/edit.ctp:9
+#: /Template/CsvColonnes/index.ctp:9;24
+#: /Template/CsvColonnes/view.ctp:9;49
+#: /Template/EmailConfigurations/edit.ctp:9
+#: /Template/EmailConfigurations/index.ctp:9;28
+#: /Template/EmailConfigurations/view.ctp:9;71
+#: /Template/Envois/add.ctp:9
+#: /Template/Envois/edit.ctp:9
+#: /Template/Envois/index.ctp:9;26
+#: /Template/Envois/view.ctp:9
+#: /Template/FacebookAutoSuivis/add.ctp:9
+#: /Template/FacebookAutoSuivis/edit.ctp:9
+#: /Template/FacebookAutoSuivis/index.ctp:9;27
+#: /Template/FacebookAutoSuivis/view.ctp:9
+#: /Template/FacebookAutos/edit.ctp:9
+#: /Template/FacebookAutos/liste.ctp:42
+#: /Template/FacebookAutos/view.ctp:9;62
+#: /Template/GalerieCommentaires/add.ctp:9
+#: /Template/GalerieCommentaires/edit.ctp:9
+#: /Template/GalerieCommentaires/view.ctp:9
+#: /Template/Galeries/view.ctp:9
+#: /Template/Intervalles/add.ctp:9
+#: /Template/Intervalles/edit.ctp:9
+#: /Template/Intervalles/index.ctp:9;24
+#: /Template/Intervalles/view.ctp:9;53
+#: /Template/PageSouvenirs/edit.ctp:9
+#: /Template/PageSouvenirs/index.ctp:9;27
+#: /Template/PageSouvenirs/view.ctp:9;63
+#: /Template/PhotoCommentaires/add.ctp:9
+#: /Template/PhotoCommentaires/edit.ctp:9
+#: /Template/PhotoCommentaires/view.ctp:9
+#: /Template/Photos/edit.ctp:9
+#: /Template/Photos/index.ctp:9;29
+#: /Template/Roles/add.ctp:9
+#: /Template/Roles/edit.ctp:9
+#: /Template/Roles/index.ctp:9;24
+#: /Template/Roles/view.ctp:9;52
+#: /Template/RsConfigurations/edit.ctp:9
+#: /Template/RsConfigurations/index.ctp:9;25
+#: /Template/RsConfigurations/view.ctp:9
+#: /Template/SmsConfigurations/edit.ctp:9
+#: /Template/SmsConfigurations/index.ctp:9;26
+#: /Template/SmsConfigurations/view.ctp:9;59
+#: /Template/Users/add.ctp:9
+#: /Template/Users/edit.ctp:9
+#: /Template/Users/index.ctp:9;35
+#: /Template/Users/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: /Template/Clients/view.ctp:10
+msgid "Edit Client"
+msgstr ""
+
+#: /Template/Clients/view.ctp:11
+msgid "Delete Client"
+msgstr ""
+
+#: /Template/Clients/view.ctp:11;80;117
+#: /Template/Contacts/edit.ctp:13
+#: /Template/Contacts/view.ctp:11
+#: /Template/Crons/edit.ctp:13
+#: /Template/Crons/index.ctp:51
+#: /Template/Crons/view.ctp:11
+#: /Template/CsvColonnePositions/liste.ctp:47
+#: /Template/CsvColonnePositions/view.ctp:11
+#: /Template/CsvColonnes/edit.ctp:13
+#: /Template/CsvColonnes/index.ctp:37
+#: /Template/CsvColonnes/view.ctp:11;62
+#: /Template/EmailConfigurations/edit.ctp:13
+#: /Template/EmailConfigurations/index.ctp:45
+#: /Template/EmailConfigurations/view.ctp:11;86
+#: /Template/Envois/edit.ctp:13
+#: /Template/Envois/index.ctp:41
+#: /Template/Envois/view.ctp:11
+#: /Template/FacebookAutoSuivis/edit.ctp:13
+#: /Template/FacebookAutoSuivis/index.ctp:41
+#: /Template/FacebookAutoSuivis/view.ctp:11
+#: /Template/FacebookAutos/edit.ctp:13
+#: /Template/FacebookAutos/view.ctp:11;74
+#: /Template/GalerieCommentaires/edit.ctp:13
+#: /Template/GalerieCommentaires/view.ctp:11
+#: /Template/Galeries/view.ctp:11
+#: /Template/Intervalles/edit.ctp:13
+#: /Template/Intervalles/index.ctp:37
+#: /Template/Intervalles/view.ctp:11;70
+#: /Template/PageSouvenirs/edit.ctp:13
+#: /Template/PageSouvenirs/index.ctp:43
+#: /Template/PageSouvenirs/view.ctp:11;78
+#: /Template/PhotoCommentaires/edit.ctp:13
+#: /Template/PhotoCommentaires/view.ctp:11
+#: /Template/Photos/edit.ctp:13
+#: /Template/Photos/index.ctp:44
+#: /Template/Roles/edit.ctp:13
+#: /Template/Roles/index.ctp:37
+#: /Template/Roles/view.ctp:11;68
+#: /Template/RsConfigurations/edit.ctp:13
+#: /Template/RsConfigurations/index.ctp:39
+#: /Template/RsConfigurations/view.ctp:11
+#: /Template/SmsConfigurations/edit.ctp:13
+#: /Template/SmsConfigurations/index.ctp:41
+#: /Template/SmsConfigurations/view.ctp:11;74
+#: /Template/Users/edit.ctp:13
+#: /Template/Users/index.ctp:53
+#: /Template/Users/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: /Template/Clients/view.ctp:12
+#: /Template/Users/add.ctp:17
+#: /Template/Users/edit.ctp:23
+#: /Template/Users/index.ctp:17
+#: /Template/Users/view.ctp:20
+msgid "List Clients"
+msgstr ""
+
+#: /Template/Clients/view.ctp:13
+#: /Template/Users/add.ctp:18
+#: /Template/Users/edit.ctp:24
+#: /Template/Users/index.ctp:18
+#: /Template/Users/view.ctp:21
+msgid "New Client"
+msgstr ""
+
+#: /Template/Clients/view.ctp:14
+#: /Template/Crons/edit.ctp:17
+#: /Template/Crons/index.ctp:11
+#: /Template/Crons/view.ctp:14
+#: /Template/CsvColonnePositions/view.ctp:16
+#: /Template/EmailConfigurations/edit.ctp:17
+#: /Template/EmailConfigurations/index.ctp:11
+#: /Template/EmailConfigurations/view.ctp:14
+#: /Template/FacebookAutos/edit.ctp:17
+#: /Template/FacebookAutos/view.ctp:14
+#: /Template/PageSouvenirs/edit.ctp:17
+#: /Template/PageSouvenirs/index.ctp:11
+#: /Template/PageSouvenirs/view.ctp:14
+#: /Template/Photos/edit.ctp:17
+#: /Template/Photos/index.ctp:12
+#: /Template/RsConfigurations/edit.ctp:17
+#: /Template/RsConfigurations/index.ctp:11
+#: /Template/RsConfigurations/view.ctp:14
+#: /Template/SmsConfigurations/edit.ctp:17
+#: /Template/SmsConfigurations/index.ctp:11
+#: /Template/SmsConfigurations/view.ctp:14
+#: /Template/Users/add.ctp:13
+#: /Template/Users/edit.ctp:19
+#: /Template/Users/index.ctp:13
+#: /Template/Users/view.ctp:16
+msgid "List Evenements"
+msgstr ""
+
+#: /Template/Clients/view.ctp:15
+#: /Template/Crons/edit.ctp:18
+#: /Template/Crons/index.ctp:12
+#: /Template/Crons/view.ctp:15
+#: /Template/CsvColonnePositions/view.ctp:17
+#: /Template/EmailConfigurations/edit.ctp:18
+#: /Template/EmailConfigurations/index.ctp:12
+#: /Template/EmailConfigurations/view.ctp:15
+#: /Template/FacebookAutos/edit.ctp:18
+#: /Template/FacebookAutos/view.ctp:15
+#: /Template/PageSouvenirs/edit.ctp:18
+#: /Template/PageSouvenirs/index.ctp:12
+#: /Template/PageSouvenirs/view.ctp:15
+#: /Template/Photos/edit.ctp:18
+#: /Template/Photos/index.ctp:13
+#: /Template/RsConfigurations/edit.ctp:18
+#: /Template/RsConfigurations/index.ctp:12
+#: /Template/RsConfigurations/view.ctp:15
+#: /Template/SmsConfigurations/edit.ctp:18
+#: /Template/SmsConfigurations/index.ctp:12
+#: /Template/SmsConfigurations/view.ctp:15
+#: /Template/Users/add.ctp:14
+#: /Template/Users/edit.ctp:20
+#: /Template/Users/index.ctp:14
+#: /Template/Users/view.ctp:17
+msgid "New Evenement"
+msgstr ""
+
+#: /Template/Clients/view.ctp:16
+#: /Template/Roles/add.ctp:11
+#: /Template/Roles/edit.ctp:17
+#: /Template/Roles/index.ctp:11
+#: /Template/Roles/view.ctp:14
+#: /Template/Users/add.ctp:10
+#: /Template/Users/edit.ctp:16
+#: /Template/Users/view.ctp:12
+msgid "List Users"
+msgstr ""
+
+#: /Template/Clients/view.ctp:17
+#: /Template/Roles/add.ctp:12
+#: /Template/Roles/edit.ctp:18
+#: /Template/Roles/index.ctp:12
+#: /Template/Roles/view.ctp:15
+#: /Template/Users/index.ctp:10
+#: /Template/Users/view.ctp:13
+msgid "New User"
+msgstr ""
+
+#: /Template/Clients/view.ctp:24;51
+#: /Template/Contacts/view.ctp:22
+#: /Template/CsvColonnes/view.ctp:22
+#: /Template/EmailConfigurations/view.ctp:65
+#: /Template/Galeries/view.ctp:20
+#: /Template/PageSouvenirs/view.ctp:57
+#: /Template/Roles/view.ctp:22
+#: /Template/SmsConfigurations/view.ctp:53
+msgid "Nom"
+msgstr ""
+
+#: /Template/Clients/view.ctp:28
+msgid "Adresse"
+msgstr ""
+
+#: /Template/Clients/view.ctp:32;49;92
+#: /Template/Contacts/view.ctp:46
+#: /Template/Crons/view.ctp:32
+#: /Template/CsvColonnePositions/view.ctp:32
+#: /Template/CsvColonnes/view.ctp:26;43
+#: /Template/EmailConfigurations/view.ctp:34;63
+#: /Template/Envois/view.ctp:30
+#: /Template/FacebookAutoSuivis/view.ctp:32
+#: /Template/FacebookAutos/view.ctp:44;57
+#: /Template/GalerieCommentaires/view.ctp:30
+#: /Template/Galeries/view.ctp:48
+#: /Template/Intervalles/view.ctp:26;43
+#: /Template/PageSouvenirs/view.ctp:34;55
+#: /Template/PhotoCommentaires/view.ctp:30
+#: /Template/Roles/view.ctp:26;43
+#: /Template/RsConfigurations/view.ctp:30
+#: /Template/SmsConfigurations/view.ctp:30;51
+#: /Template/Users/view.ctp:52
+msgid "Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:36;59;95
+#: /Template/Contacts/view.ctp:50
+#: /Template/Crons/view.ctp:44
+#: /Template/CsvColonnePositions/view.ctp:40
+#: /Template/CsvColonnes/view.ctp:30;47
+#: /Template/EmailConfigurations/view.ctp:42;69
+#: /Template/Envois/view.ctp:34
+#: /Template/FacebookAutoSuivis/view.ctp:36
+#: /Template/FacebookAutos/view.ctp:60
+#: /Template/GalerieCommentaires/view.ctp:34
+#: /Template/Galeries/view.ctp:52
+#: /Template/Intervalles/view.ctp:30;51
+#: /Template/PageSouvenirs/view.ctp:42;61
+#: /Template/PhotoCommentaires/view.ctp:34
+#: /Template/Roles/view.ctp:30;46
+#: /Template/RsConfigurations/view.ctp:34
+#: /Template/SmsConfigurations/view.ctp:38;57
+#: /Template/Users/view.ctp:56
+msgid "Created"
+msgstr ""
+
+#: /Template/Clients/view.ctp:40;60;96
+#: /Template/Contacts/view.ctp:54
+#: /Template/Crons/view.ctp:48
+#: /Template/CsvColonnePositions/view.ctp:44
+#: /Template/CsvColonnes/view.ctp:34;48
+#: /Template/EmailConfigurations/view.ctp:46;70
+#: /Template/Envois/view.ctp:38
+#: /Template/GalerieCommentaires/view.ctp:38
+#: /Template/Galeries/view.ctp:56
+#: /Template/Intervalles/view.ctp:34;52
+#: /Template/PageSouvenirs/view.ctp:46;62
+#: /Template/PhotoCommentaires/view.ctp:38
+#: /Template/Roles/view.ctp:34;47
+#: /Template/RsConfigurations/view.ctp:38
+#: /Template/SmsConfigurations/view.ctp:42;58
+#: /Template/Users/view.ctp:60
+msgid "Modified"
+msgstr ""
+
+#: /Template/Clients/view.ctp:45
+#: /Template/EmailConfigurations/view.ctp:59
+#: /Template/PageSouvenirs/view.ctp:51
+#: /Template/SmsConfigurations/view.ctp:47
+msgid "Related Evenements"
+msgstr ""
+
+#: /Template/Clients/view.ctp:50;100
+#: /Template/EmailConfigurations/view.ctp:64
+#: /Template/PageSouvenirs/view.ctp:56
+#: /Template/Roles/view.ctp:51
+#: /Template/SmsConfigurations/view.ctp:52
+msgid "Client Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:52
+#: /Template/EmailConfigurations/view.ctp:66
+#: /Template/Galeries/view.ctp:24
+#: /Template/PageSouvenirs/view.ctp:58
+#: /Template/SmsConfigurations/view.ctp:54
+msgid "Slug"
+msgstr ""
+
+#: /Template/Clients/view.ctp:53
+#: /Template/EmailConfigurations/view.ctp:67
+#: /Template/PageSouvenirs/view.ctp:59
+#: /Template/SmsConfigurations/view.ctp:55
+msgid "Is Marque Blanche"
+msgstr ""
+
+#: /Template/Clients/view.ctp:54
+#: /Template/EmailConfigurations/view.ctp:68
+#: /Template/PageSouvenirs/view.ctp:60
+#: /Template/SmsConfigurations/view.ctp:56
+msgid "Is Data Acces"
+msgstr ""
+
+#: /Template/Clients/view.ctp:55
+msgid "Page Souvenir Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:56
+msgid "Email Configuration Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:57
+msgid "Sms Configuration Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:58
+msgid "Rs Configuration Int"
+msgstr ""
+
+#: /Template/Clients/view.ctp:78;115
+#: /Template/Crons/index.ctp:49
+#: /Template/CsvColonnes/index.ctp:35
+#: /Template/CsvColonnes/view.ctp:60
+#: /Template/EmailConfigurations/index.ctp:43
+#: /Template/EmailConfigurations/view.ctp:84
+#: /Template/Envois/index.ctp:39
+#: /Template/FacebookAutoSuivis/index.ctp:39
+#: /Template/FacebookAutos/view.ctp:72
+#: /Template/Intervalles/index.ctp:35
+#: /Template/Intervalles/view.ctp:68
+#: /Template/PageSouvenirs/index.ctp:41
+#: /Template/PageSouvenirs/view.ctp:76
+#: /Template/Photos/index.ctp:42
+#: /Template/Roles/index.ctp:35
+#: /Template/Roles/view.ctp:66
+#: /Template/RsConfigurations/index.ctp:37
+#: /Template/SmsConfigurations/index.ctp:39
+#: /Template/SmsConfigurations/view.ctp:72
+#: /Template/Users/index.ctp:51
+msgid "View"
+msgstr ""
+
+#: /Template/Clients/view.ctp:88
+#: /Template/Roles/view.ctp:39
+msgid "Related Users"
+msgstr ""
+
+#: /Template/Clients/view.ctp:93
+#: /Template/Roles/view.ctp:44
+#: /Template/Users/view.ctp:28
+msgid "Username"
+msgstr ""
+
+#: /Template/Clients/view.ctp:94
+#: /Template/Galeries/login.ctp:26
+#: /Template/Roles/view.ctp:45
+#: /Template/Users/login.ctp:19
+#: /Template/Users/view.ctp:32
+msgid "Password"
+msgstr ""
+
+#: /Template/Clients/view.ctp:97
+#: /Template/Roles/view.ctp:48
+msgid "Role Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:98
+#: /Template/CsvColonnes/view.ctp:45
+#: /Template/EmailConfigurations/view.ctp:38
+#: /Template/Intervalles/view.ctp:49
+#: /Template/PageSouvenirs/view.ctp:38
+#: /Template/Roles/view.ctp:49
+#: /Template/SmsConfigurations/view.ctp:34
+msgid "Evenement Id"
+msgstr ""
+
+#: /Template/Clients/view.ctp:99
+#: /Template/Roles/view.ctp:50
+msgid "Galerie Id"
+msgstr ""
+
+#: /Template/Contacts/add.ctp:42
+msgid "Model information"
+msgstr ""
+
+#: /Template/Contacts/edit.ctp:16
+#: /Template/Contacts/view.ctp:12
+#: /Template/Envois/add.ctp:11
+#: /Template/Envois/edit.ctp:17
+#: /Template/Envois/index.ctp:11
+#: /Template/Envois/view.ctp:14
+#: /Template/Photos/edit.ctp:19
+#: /Template/Photos/index.ctp:14
+msgid "List Contacts"
+msgstr ""
+
+#: /Template/Contacts/edit.ctp:17
+#: /Template/Contacts/view.ctp:14
+#: /Template/FacebookAutoSuivis/add.ctp:13
+#: /Template/FacebookAutoSuivis/edit.ctp:19
+#: /Template/FacebookAutoSuivis/index.ctp:13
+#: /Template/FacebookAutoSuivis/view.ctp:16
+#: /Template/PhotoCommentaires/add.ctp:11
+#: /Template/PhotoCommentaires/edit.ctp:17
+#: /Template/PhotoCommentaires/view.ctp:14
+#: /Template/Photos/edit.ctp:16
+msgid "List Photos"
+msgstr ""
+
+#: /Template/Contacts/edit.ctp:18
+#: /Template/Contacts/view.ctp:15
+#: /Template/FacebookAutoSuivis/add.ctp:14
+#: /Template/FacebookAutoSuivis/edit.ctp:20
+#: /Template/FacebookAutoSuivis/index.ctp:14
+#: /Template/FacebookAutoSuivis/view.ctp:17
+#: /Template/PhotoCommentaires/add.ctp:12
+#: /Template/PhotoCommentaires/edit.ctp:18
+#: /Template/PhotoCommentaires/view.ctp:15
+#: /Template/Photos/index.ctp:11
+msgid "New Photo"
+msgstr ""
+
+#: /Template/Contacts/edit.ctp:24
+#: /Template/Contacts/view.ctp:10
+msgid "Edit Contact"
+msgstr ""
+
+#: /Template/Contacts/edit.ctp:34
+#: /Template/Crons/edit.ctp:37
+#: /Template/CsvColonnes/add.ctp:23
+#: /Template/CsvColonnes/edit.ctp:29
+#: /Template/EmailConfigurations/edit.ctp:34
+#: /Template/Envois/add.ctp:25
+#: /Template/Envois/edit.ctp:31
+#: /Template/FacebookAutoSuivis/add.ctp:27
+#: /Template/FacebookAutoSuivis/edit.ctp:33
+#: /Template/FacebookAutos/edit.ctp:36
+#: /Template/GalerieCommentaires/add.ctp:25
+#: /Template/GalerieCommentaires/edit.ctp:31
+#: /Template/Intervalles/add.ctp:23
+#: /Template/Intervalles/edit.ctp:29
+#: /Template/PageSouvenirs/edit.ctp:32
+#: /Template/PhotoCommentaires/add.ctp:25
+#: /Template/PhotoCommentaires/edit.ctp:31
+#: /Template/Photos/edit.ctp:35
+#: /Template/Roles/add.ctp:23
+#: /Template/Roles/edit.ctp:29
+#: /Template/RsConfigurations/edit.ctp:33
+#: /Template/SmsConfigurations/edit.ctp:31
+#: /Template/Users/add.ctp:34
+#: /Template/Users/edit.ctp:40
+msgid "Submit"
+msgstr ""
+
+#: /Template/Contacts/liste.ctp:68
+msgid "{{count}} Contact(s)"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:11
+msgid "Delete Contact"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:13
+#: /Template/Envois/add.ctp:12
+#: /Template/Envois/edit.ctp:18
+#: /Template/Envois/index.ctp:12
+#: /Template/Envois/view.ctp:15
+#: /Template/Photos/edit.ctp:20
+#: /Template/Photos/index.ctp:15
+msgid "New Contact"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:26
+msgid "Prenom"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:30
+msgid "Email"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:34
+msgid "Telephone"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:38
+msgid "Code Pays"
+msgstr ""
+
+#: /Template/Contacts/view.ctp:42
+#: /Template/FacebookAutoSuivis/view.ctp:28
+#: /Template/PhotoCommentaires/view.ctp:26
+msgid "Photo"
+msgstr ""
+
+#: /Template/Crons/add.ctp:136
+#: /Template/CsvColonnePositions/add.ctp:44
+#: /Template/CsvColonnePositions/edit.ctp:37
+#: /Template/EmailConfigurations/add.ctp:79
+#: /Template/Evenements/add.ctp:95
+#: /Template/Evenements/edit.ctp:83
+#: /Template/Galeries/add.ctp:135
+#: /Template/Galeries/edit.ctp:111
+#: /Template/PageSouvenirs/add.ctp:78
+#: /Template/RsConfigurations/add.ctp:50
+#: /Template/SmsConfigurations/add.ctp:76
+msgid "Save"
+msgstr ""
+
+#: /Template/Crons/edit.ctp:16
+#: /Template/Crons/view.ctp:12
+#: /Template/Intervalles/add.ctp:11
+#: /Template/Intervalles/edit.ctp:17
+#: /Template/Intervalles/index.ctp:11
+#: /Template/Intervalles/view.ctp:14
+msgid "List Crons"
+msgstr ""
+
+#: /Template/Crons/edit.ctp:19
+#: /Template/Crons/index.ctp:13
+#: /Template/Crons/view.ctp:16
+#: /Template/Intervalles/add.ctp:10
+#: /Template/Intervalles/edit.ctp:16
+#: /Template/Intervalles/view.ctp:12
+msgid "List Intervalles"
+msgstr ""
+
+#: /Template/Crons/edit.ctp:20
+#: /Template/Crons/index.ctp:14
+#: /Template/Crons/view.ctp:17
+#: /Template/Intervalles/index.ctp:10
+#: /Template/Intervalles/view.ctp:13
+msgid "New Intervalle"
+msgstr ""
+
+#: /Template/Crons/edit.ctp:26
+#: /Template/Crons/view.ctp:10
+msgid "Edit Cron"
+msgstr ""
+
+#: /Template/Crons/index.ctp:10
+#: /Template/Crons/view.ctp:13
+#: /Template/Intervalles/add.ctp:12
+#: /Template/Intervalles/edit.ctp:18
+#: /Template/Intervalles/index.ctp:12
+#: /Template/Intervalles/view.ctp:15
+msgid "New Cron"
+msgstr ""
+
+#: /Template/Crons/index.ctp:18
+msgid "Crons"
+msgstr ""
+
+#: /Template/Crons/index.ctp:65
+#: /Template/CsvColonnes/index.ctp:51
+#: /Template/EmailConfigurations/index.ctp:59
+#: /Template/Envois/index.ctp:55
+#: /Template/FacebookAutoSuivis/index.ctp:55
+#: /Template/Intervalles/index.ctp:51
+#: /Template/PageSouvenirs/index.ctp:57
+#: /Template/Photos/index.ctp:58
+#: /Template/Roles/index.ctp:51
+#: /Template/RsConfigurations/index.ctp:53
+#: /Template/SmsConfigurations/index.ctp:55
+#: /Template/Users/index.ctp:67
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: /Template/Crons/view.ctp:11
+msgid "Delete Cron"
+msgstr ""
+
+#: /Template/Crons/view.ctp:24
+#: /Template/CsvColonnePositions/view.ctp:28
+#: /Template/FacebookAutos/view.ctp:24
+#: /Template/RsConfigurations/view.ctp:26
+#: /Template/Users/view.ctp:40
+msgid "Evenement"
+msgstr ""
+
+#: /Template/Crons/view.ctp:28
+#: /Template/Intervalles/view.ctp:22
+msgid "Intervalle"
+msgstr ""
+
+#: /Template/Crons/view.ctp:36
+#: /Template/Intervalles/view.ctp:47
+msgid "Date Debut"
+msgstr ""
+
+#: /Template/Crons/view.ctp:40
+#: /Template/Intervalles/view.ctp:48
+msgid "Date Fin"
+msgstr ""
+
+#: /Template/Crons/view.ctp:52
+#: /Template/Intervalles/view.ctp:44
+msgid "Is Active"
+msgstr ""
+
+#: /Template/Crons/view.ctp:53;57;61
+#: /Template/EmailConfigurations/view.ctp:51
+#: /Template/Envois/view.ctp:43
+msgid "Yes"
+msgstr ""
+
+#: /Template/Crons/view.ctp:53;57;61
+#: /Template/EmailConfigurations/view.ctp:51
+#: /Template/Envois/view.ctp:43
+msgid "No"
+msgstr ""
+
+#: /Template/Crons/view.ctp:56
+#: /Template/Intervalles/view.ctp:45
+msgid "Is Cron Email"
+msgstr ""
+
+#: /Template/Crons/view.ctp:60
+#: /Template/Intervalles/view.ctp:46
+msgid "Is Cron Sms"
+msgstr ""
+
+#: /Template/CsvColonnePositions/liste.ctp:23
+msgid "Create"
+msgstr "Ajouter"
+
+#: /Template/CsvColonnePositions/view.ctp:10
+msgid "Edit Csv Colonne Position"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:11
+msgid "Delete Csv Colonne Position"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:12
+#: /Template/CsvColonnes/add.ctp:11
+#: /Template/CsvColonnes/edit.ctp:17
+#: /Template/CsvColonnes/index.ctp:11
+#: /Template/CsvColonnes/view.ctp:14
+msgid "List Csv Colonne Positions"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:13
+#: /Template/CsvColonnes/add.ctp:12
+#: /Template/CsvColonnes/edit.ctp:18
+#: /Template/CsvColonnes/index.ctp:12
+#: /Template/CsvColonnes/view.ctp:15
+msgid "New Csv Colonne Position"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:14
+#: /Template/CsvColonnes/add.ctp:10
+#: /Template/CsvColonnes/edit.ctp:16
+#: /Template/CsvColonnes/view.ctp:12
+msgid "List Csv Colonnes"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:15
+#: /Template/CsvColonnes/index.ctp:10
+#: /Template/CsvColonnes/view.ctp:13
+msgid "New Csv Colonne"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:24
+msgid "Csv Colonne"
+msgstr ""
+
+#: /Template/CsvColonnePositions/view.ctp:36
+#: /Template/CsvColonnes/view.ctp:46
+msgid "Position"
+msgstr ""
+
+#: /Template/CsvColonnes/add.ctp:18
+msgid "Add Csv Colonne"
+msgstr ""
+
+#: /Template/CsvColonnes/edit.ctp:24
+#: /Template/CsvColonnes/view.ctp:10
+msgid "Edit Csv Colonne"
+msgstr ""
+
+#: /Template/CsvColonnes/index.ctp:16
+msgid "Csv Colonnes"
+msgstr ""
+
+#: /Template/CsvColonnes/view.ctp:11
+msgid "Delete Csv Colonne"
+msgstr ""
+
+#: /Template/CsvColonnes/view.ctp:39
+msgid "Related Csv Colonne Positions"
+msgstr ""
+
+#: /Template/CsvColonnes/view.ctp:44
+msgid "Csv Colonne Id"
+msgstr ""
+
+#: /Template/Element/Galeries/commentaires.ctp:23
+#: /Template/Galeries/popup_image.ctp:122
+msgid "Commenter"
+msgstr ""
+
+#: /Template/Element/Galeries/commentaires_photo.ctp:4
+#: /Template/GalerieCommentaires/index.ctp:5
+msgid "{{count}} commentaire(s)"
+msgstr ""
+
+#: /Template/Email/html/share.ctp:7
+msgid "Pour visualiser en ligne, rendez vous ici"
+msgstr ""
+
+#: /Template/EmailConfigurations/edit.ctp:16
+#: /Template/EmailConfigurations/view.ctp:12
+msgid "List Email Configurations"
+msgstr ""
+
+#: /Template/EmailConfigurations/edit.ctp:24
+#: /Template/EmailConfigurations/view.ctp:10
+msgid "Edit Email Configuration"
+msgstr ""
+
+#: /Template/EmailConfigurations/index.ctp:10
+#: /Template/EmailConfigurations/view.ctp:13
+msgid "New Email Configuration"
+msgstr ""
+
+#: /Template/EmailConfigurations/index.ctp:16
+msgid "Email Configurations"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:11
+msgid "Delete Email Configuration"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:22
+msgid "Email Expediteur"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:26
+msgid "Nom Expediteur"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:30
+msgid "Content"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:50
+msgid "Is Photo En Pj"
+msgstr ""
+
+#: /Template/EmailConfigurations/view.ctp:55
+msgid "Objet"
+msgstr ""
+
+#: /Template/Envois/add.ctp:10
+#: /Template/Envois/edit.ctp:16
+#: /Template/Envois/view.ctp:12
+msgid "List Envois"
+msgstr ""
+
+#: /Template/Envois/add.ctp:18
+msgid "Add Envois"
+msgstr ""
+
+#: /Template/Envois/edit.ctp:24
+#: /Template/Envois/view.ctp:10
+msgid "Edit Envois"
+msgstr ""
+
+#: /Template/Envois/index.ctp:10
+#: /Template/Envois/view.ctp:13
+msgid "New Envois"
+msgstr ""
+
+#: /Template/Envois/index.ctp:16
+msgid "Envois"
+msgstr ""
+
+#: /Template/Envois/view.ctp:11
+msgid "Delete Envois"
+msgstr ""
+
+#: /Template/Envois/view.ctp:22
+msgid "Contact"
+msgstr ""
+
+#: /Template/Envois/view.ctp:26
+msgid "Envoi Type"
+msgstr ""
+
+#: /Template/Envois/view.ctp:42
+msgid "Is Force Envoi"
+msgstr ""
+
+#: /Template/Evenements/index.ctp:49
+msgid "Etes-vous sûr que vous voulez supprimer ?"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/add.ctp:10
+#: /Template/FacebookAutoSuivis/edit.ctp:16
+#: /Template/FacebookAutoSuivis/view.ctp:12
+#: /Template/FacebookAutos/edit.ctp:19
+#: /Template/FacebookAutos/view.ctp:16
+msgid "List Facebook Auto Suivis"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/add.ctp:11
+#: /Template/FacebookAutoSuivis/edit.ctp:17
+#: /Template/FacebookAutoSuivis/index.ctp:11
+#: /Template/FacebookAutoSuivis/view.ctp:14
+#: /Template/FacebookAutos/edit.ctp:16
+#: /Template/FacebookAutos/view.ctp:12
+msgid "List Facebook Autos"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/add.ctp:12
+#: /Template/FacebookAutoSuivis/edit.ctp:18
+#: /Template/FacebookAutoSuivis/index.ctp:12
+#: /Template/FacebookAutoSuivis/view.ctp:15
+#: /Template/FacebookAutos/view.ctp:13
+msgid "New Facebook Auto"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/add.ctp:20
+msgid "Add Facebook Auto Suivi"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/edit.ctp:26
+#: /Template/FacebookAutoSuivis/view.ctp:10
+msgid "Edit Facebook Auto Suivi"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/index.ctp:10
+#: /Template/FacebookAutoSuivis/view.ctp:13
+#: /Template/FacebookAutos/edit.ctp:20
+#: /Template/FacebookAutos/view.ctp:17
+msgid "New Facebook Auto Suivi"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/index.ctp:18
+msgid "Facebook Auto Suivis"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/view.ctp:11
+msgid "Delete Facebook Auto Suivi"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/view.ctp:24
+msgid "Facebook Auto"
+msgstr ""
+
+#: /Template/FacebookAutoSuivis/view.ctp:40
+#: /Template/FacebookAutos/view.ctp:61
+msgid "Modifed"
+msgstr ""
+
+#: /Template/FacebookAutos/add.ctp:73
+msgid "Créer un album facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/add.ctp:82
+msgid "Séléctionnez un album existant"
+msgstr ""
+
+#: /Template/FacebookAutos/edit.ctp:26
+#: /Template/FacebookAutos/view.ctp:10
+msgid "Edit Facebook Auto"
+msgstr ""
+
+#: /Template/FacebookAutos/select_albums.ctp:64
+msgid "Séléctionnez un événement"
+msgstr ""
+
+#: /Template/FacebookAutos/select_albums.ctp:92
+msgid "Séléctionnez une Page Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/select_albums.ctp:100
+msgid "Annuler"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:11
+msgid "Delete Facebook Auto"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:28
+msgid "Id In Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:32
+msgid "Id Album In Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:36
+msgid "Name In Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:40
+msgid "Name Album In Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:49
+msgid "Token Facebook"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:53
+msgid "Related Facebook Auto Suivis"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:58
+msgid "Facebook Auto Id"
+msgstr ""
+
+#: /Template/FacebookAutos/view.ctp:59
+msgid "Photo Id"
+msgstr ""
+
+#: /Template/GalerieCommentaires/add.ctp:10
+#: /Template/GalerieCommentaires/edit.ctp:16
+#: /Template/GalerieCommentaires/view.ctp:12
+msgid "List Galerie Commentaires"
+msgstr ""
+
+#: /Template/GalerieCommentaires/add.ctp:11
+#: /Template/GalerieCommentaires/edit.ctp:17
+#: /Template/GalerieCommentaires/view.ctp:14
+#: /Template/Galeries/view.ctp:12
+#: /Template/Users/add.ctp:15
+#: /Template/Users/edit.ctp:21
+#: /Template/Users/index.ctp:15
+#: /Template/Users/view.ctp:18
+msgid "List Galeries"
+msgstr ""
+
+#: /Template/GalerieCommentaires/add.ctp:12
+#: /Template/GalerieCommentaires/edit.ctp:18
+#: /Template/GalerieCommentaires/view.ctp:15
+#: /Template/Galeries/view.ctp:13
+#: /Template/Users/add.ctp:16
+#: /Template/Users/edit.ctp:22
+#: /Template/Users/index.ctp:16
+#: /Template/Users/view.ctp:19
+msgid "New Galery"
+msgstr ""
+
+#: /Template/GalerieCommentaires/add.ctp:18
+msgid "Add Galerie Commentaire"
+msgstr ""
+
+#: /Template/GalerieCommentaires/edit.ctp:24
+#: /Template/GalerieCommentaires/view.ctp:10
+msgid "Edit Galerie Commentaire"
+msgstr ""
+
+#: /Template/GalerieCommentaires/view.ctp:11
+msgid "Delete Galerie Commentaire"
+msgstr ""
+
+#: /Template/GalerieCommentaires/view.ctp:13
+msgid "New Galerie Commentaire"
+msgstr ""
+
+#: /Template/GalerieCommentaires/view.ctp:22
+#: /Template/PhotoCommentaires/view.ctp:22
+msgid "Commentateur Name"
+msgstr ""
+
+#: /Template/GalerieCommentaires/view.ctp:26
+#: /Template/Users/view.ctp:44
+msgid "Galery"
+msgstr ""
+
+#: /Template/GalerieCommentaires/view.ctp:43
+#: /Template/PhotoCommentaires/view.ctp:43
+msgid "Commentaire"
+msgstr ""
+
+#: /Template/Galeries/login.ctp:25
+msgid "Nom de l'album"
+msgstr ""
+
+#: /Template/Galeries/popup_image.ctp:257
+msgid "Afficher tout"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:10
+msgid "Edit Galery"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:11
+msgid "Delete Galery"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:28
+msgid "Is Public"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:32
+msgid "Titre"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:36
+msgid "Sous Titre"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:40
+msgid "Couleur"
+msgstr ""
+
+#: /Template/Galeries/view.ctp:44
+#: /Template/PageSouvenirs/view.ctp:30
+msgid "Img Banniere"
+msgstr ""
+
+#: /Template/Intervalles/add.ctp:18
+msgid "Add Intervalle"
+msgstr ""
+
+#: /Template/Intervalles/edit.ctp:24
+#: /Template/Intervalles/view.ctp:10
+msgid "Edit Intervalle"
+msgstr ""
+
+#: /Template/Intervalles/index.ctp:16
+msgid "Intervalles"
+msgstr ""
+
+#: /Template/Intervalles/view.ctp:11
+msgid "Delete Intervalle"
+msgstr ""
+
+#: /Template/Intervalles/view.ctp:39
+msgid "Related Crons"
+msgstr ""
+
+#: /Template/Intervalles/view.ctp:50
+msgid "Intervalle Id"
+msgstr ""
+
+#: /Template/Layout/error.ctp:35
+#: /Template/Error/error400.ctp:36
+#: /Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: /Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: /Template/PageSouvenirs/edit.ctp:16
+#: /Template/PageSouvenirs/view.ctp:12
+msgid "List Page Souvenirs"
+msgstr ""
+
+#: /Template/PageSouvenirs/edit.ctp:24
+#: /Template/PageSouvenirs/view.ctp:10
+msgid "Edit Page Souvenir"
+msgstr ""
+
+#: /Template/PageSouvenirs/index.ctp:10
+#: /Template/PageSouvenirs/view.ctp:13
+msgid "New Page Souvenir"
+msgstr ""
+
+#: /Template/PageSouvenirs/index.ctp:16
+msgid "Page Souvenirs"
+msgstr ""
+
+#: /Template/PageSouvenirs/view.ctp:11
+msgid "Delete Page Souvenir"
+msgstr ""
+
+#: /Template/PageSouvenirs/view.ctp:22
+msgid "Couleur Fond Entete"
+msgstr ""
+
+#: /Template/PageSouvenirs/view.ctp:26
+msgid "Couleur Fond"
+msgstr ""
+
+#: /Template/PhotoCommentaires/add.ctp:10
+#: /Template/PhotoCommentaires/edit.ctp:16
+#: /Template/PhotoCommentaires/view.ctp:12
+msgid "List Photo Commentaires"
+msgstr ""
+
+#: /Template/PhotoCommentaires/add.ctp:18
+msgid "Add Photo Commentaire"
+msgstr ""
+
+#: /Template/PhotoCommentaires/edit.ctp:24
+#: /Template/PhotoCommentaires/view.ctp:10
+msgid "Edit Photo Commentaire"
+msgstr ""
+
+#: /Template/PhotoCommentaires/view.ctp:11
+msgid "Delete Photo Commentaire"
+msgstr ""
+
+#: /Template/PhotoCommentaires/view.ctp:13
+msgid "New Photo Commentaire"
+msgstr ""
+
+#: /Template/Photos/corbeille.ctp:28
+#: /Template/Photos/liste.ctp:34
+msgid "{{count}} Photo(s)"
+msgstr ""
+
+#: /Template/Photos/corbeille.ctp:51
+msgid "Etes vous sûr de vouloir supprimer defitivement  ?"
+msgstr ""
+
+#: /Template/Photos/edit.ctp:26
+msgid "Edit Photo"
+msgstr ""
+
+#: /Template/Photos/index.ctp:10
+msgid "Import photo"
+msgstr ""
+
+#: /Template/Photos/index.ctp:19
+msgid "Photos"
+msgstr ""
+
+#: /Template/Roles/add.ctp:10
+#: /Template/Roles/edit.ctp:16
+#: /Template/Roles/view.ctp:12
+#: /Template/Users/add.ctp:11
+#: /Template/Users/edit.ctp:17
+#: /Template/Users/index.ctp:11
+#: /Template/Users/view.ctp:14
+msgid "List Roles"
+msgstr ""
+
+#: /Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr ""
+
+#: /Template/Roles/edit.ctp:24
+#: /Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr ""
+
+#: /Template/Roles/index.ctp:10
+#: /Template/Roles/view.ctp:13
+#: /Template/Users/add.ctp:12
+#: /Template/Users/edit.ctp:18
+#: /Template/Users/index.ctp:12
+#: /Template/Users/view.ctp:15
+msgid "New Role"
+msgstr ""
+
+#: /Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr ""
+
+#: /Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr ""
+
+#: /Template/RsConfigurations/edit.ctp:16
+#: /Template/RsConfigurations/view.ctp:12
+msgid "List Rs Configurations"
+msgstr ""
+
+#: /Template/RsConfigurations/edit.ctp:24
+#: /Template/RsConfigurations/view.ctp:10
+msgid "Edit Rs Configuration"
+msgstr ""
+
+#: /Template/RsConfigurations/index.ctp:10
+#: /Template/RsConfigurations/view.ctp:13
+msgid "New Rs Configuration"
+msgstr ""
+
+#: /Template/RsConfigurations/index.ctp:16
+msgid "Rs Configurations"
+msgstr ""
+
+#: /Template/RsConfigurations/view.ctp:11
+msgid "Delete Rs Configuration"
+msgstr ""
+
+#: /Template/RsConfigurations/view.ctp:22
+msgid "Hashtag Twitter"
+msgstr ""
+
+#: /Template/RsConfigurations/view.ctp:43
+msgid "Desc Facebook"
+msgstr ""
+
+#: /Template/RsConfigurations/view.ctp:47
+msgid "Desc Twiter"
+msgstr ""
+
+#: /Template/SmsConfigurations/edit.ctp:16
+#: /Template/SmsConfigurations/view.ctp:12
+msgid "List Sms Configurations"
+msgstr ""
+
+#: /Template/SmsConfigurations/edit.ctp:24
+#: /Template/SmsConfigurations/view.ctp:10
+msgid "Edit Sms Configuration"
+msgstr ""
+
+#: /Template/SmsConfigurations/index.ctp:10
+#: /Template/SmsConfigurations/view.ctp:13
+msgid "New Sms Configuration"
+msgstr ""
+
+#: /Template/SmsConfigurations/index.ctp:16
+msgid "Sms Configurations"
+msgstr ""
+
+#: /Template/SmsConfigurations/view.ctp:11
+msgid "Delete Sms Configuration"
+msgstr ""
+
+#: /Template/SmsConfigurations/view.ctp:22
+msgid "Expediteur"
+msgstr ""
+
+#: /Template/SmsConfigurations/view.ctp:26
+msgid "Contenu"
+msgstr ""
+
+#: /Template/Users/add.ctp:24
+msgid "Add User"
+msgstr ""
+
+#: /Template/Users/edit.ctp:30
+#: /Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: /Template/Users/index.ctp:22
+msgid "Users"
+msgstr ""
+
+#: /Template/Users/login.ctp:11
+msgid "Sign In"
+msgstr ""
+
+#: /Template/Users/login.ctp:14
+msgid "Login"
+msgstr ""
+
+#: /Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: /Template/Users/view.ctp:36
+msgid "Role"
+msgstr ""
+
+#: /Template/Users/view.ctp:48
+msgid "Client"
+msgstr ""
+
+#: /Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: /Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+

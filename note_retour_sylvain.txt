@@ -1,0 +1,14 @@
+ah, et jai reçu un retour de Sylvain sur la synchro
+
+voici un extrait de sa réponse : 
+
+"Après test d'un fichier créer il y a 8 jours, je le retrouve bien à cette date sur le serveur.
+
+Cependant, si je fait un stat, le ctime correspond bien à la date et horaire de dépôt, tu pourra tester cela avec ces commandes, une en Shell, et une autre en PHP :
+stat "/home/manager-selfizee/domains/upload.selfizee.fr/public_html/dev/sip/files/test_sync.txt"
+php -r "echo print_r(stat('/home/manager-selfizee/domains/upload.selfizee.fr/public_html/dev/sip/files/test_sync.txt'), true);"
+cd "/home/manager-selfizee/domains/upload.selfizee.fr/public_html/dev/sip/files" && find . -cmin -45
+
+Ta commande est donc pour moi parfaite, avec find et cmin."
+
+cd /home/manager-selfizee/domains/upload.selfizee.fr/public_html/dev/ && find . -cmin -45

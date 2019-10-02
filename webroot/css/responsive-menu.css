@@ -1,0 +1,27 @@
+/* Responsive menu */
+@media (max-width: 968px) {
+    .navbar .navbar-toggler {
+        display: inline-block !important;
+    }
+    
+    .navbar-toggler {
+        cursor: pointer
+    }
+
+    .menu {
+        position: fixed;
+        height: 100%;
+        left: -285px;
+        width: 285px;
+        top: 0;
+        padding-top: 100px;
+        padding: 100px 20px 20px 20px;
+    }
+
+    #main-wrapper .sansMenu, #main-wrapper > .page-content .page-inner-content {
+        left: 0;
+        margin: 0;
+        overflow: hidden;
+        position: relative;
+    }  
+}

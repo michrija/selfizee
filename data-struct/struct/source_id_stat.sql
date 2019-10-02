@@ -1,0 +1,1 @@
+ALTER TABLE `evenement_stat_campaigns` CHANGE `source_id` `source_id` VARCHAR(250) NULL DEFAULT NULL; 

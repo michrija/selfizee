@@ -1,0 +1,125 @@
+.kl_oneStatCount{
+	background: gray;
+}
+
+.kl_titreTop {
+    padding-bottom: 1.25rem;
+}
+
+.kl_syntheseEvent {
+    font-size: 14px;
+}
+
+.kl_dernireMiseAjour.pull-right {
+    color: lightgrey;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.kl_oneStatCount {
+    background: #f0f0f0;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-weight: 500;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+    min-height: 95px;
+}
+
+span.kl_statNbrValue {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.kl_oneDetailContact {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+/* Stat email */
+.kl_blocStatMails.kl_totalMail {
+    background: #F0F0F0;
+    color: #333;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.kl_txt_bold {
+    font-weight: 600;
+}
+.kl_total_mail {
+    font-size: 32px !important;
+}
+
+.kl_blocStatMails {
+    text-align: center;
+    border-radius: 5px;
+    min-height: 185px;
+}
+
+.kl_textDescValue{
+	text-transform: uppercase;
+	color: gray;
+	font-weight: 300;
+	font-family: 'Montserrat';
+	text-align: center;
+    margin-top: 15px;
+}
+
+.progress.kl-progress-pers.kl-progress-pers-new {
+    border-radius: 0px;
+    margin-top: 6px;
+}
+
+
+
+
+.kl_blocStatMails.kl_emailDelivres {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #dee2e6!important;
+    border-radius: 5px;
+}
+
+
+.kl_values.sf-rose.pull-left {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.kl_valeurCounts.pull-right {
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 8px;
+}
+
+.kl_theMemeH {
+    min-height: 73px;
+}
+
+.kl_blocStatMails .sf-bloc-value {
+    padding-top: 10px;
+}
+a.kl_linkToStatValue:hover .kl_valeurCounts {
+    color: black;
+}
+
+.kl_blocStatMailsListErreur{
+	background: #595959;
+	border-radius: 5px;
+	padding-top: 35px;
+	padding-bottom:	35px;
+	padding-left: 15px;
+	padding-right: 15px;
+	min-height: 185px;
+}
+.kl_oneInfoStat{
+	font-weight: 300;
+	font-size: 14px;
+}
+/* Fin stat Email * /

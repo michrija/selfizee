@@ -1,0 +1,208 @@
+body{
+	height: 100% !important;
+	max-height: 100% !important;
+	overflow: hidden !important;
+    font-family: 'Montserrat', sans-serif;
+}
+.kl_loginLeft{
+	background: white;
+	/*padding: 80px 155px;*/
+	height: 100%;
+	max-height: 100% !important;
+	overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 0px;
+}
+
+.kl_loginRigth {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat !important;
+}
+
+.kl_logoInlogin img{
+	width: 181px;
+}
+
+.kl_logoInlogin {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 310px;
+    min-width: 310px;
+    width: 100%;
+    top: 65px;
+}
+
+.kl_loginTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 26px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.kl_loginDesc {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 14px;
+    color: black;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+input.kl_InputLogin{
+    background-color: #f1f1f1 !important;
+    border: none !important;
+    padding-left: 15px;
+    color: #777777 !important;
+    border-radius: 5px;
+    width: 100%;
+    height: 60px;
+    font-size: 14px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+input.kl_InputLogin:focus, input.kl_InputLogin:valid {
+    border-left: 5px solid #f62d51 !important;
+    padding-top: 8px;
+}
+
+input.kl_InputLogin.empty {
+    border-left: 0!important;
+    padding-top :0px !important;
+}
+
+.kl_btnLogin{
+	width: 100% !important;
+    border-radius: 45px !important;
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.kl_linkToSite {
+    width: 100%;
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.kl_linkToSite  a{
+	color: black;
+	font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+.kl_linkToSite  a:hover{
+	color: #f62d51;
+}
+
+.kl_loginForm .form-group{
+	position: relative;
+}
+
+.kl_loginForm label {
+    color: #f62d51;
+    font-size: 13px;
+    padding-left: 15px;
+    position: absolute;
+    display: none;
+    font-family: 'Montserrat';
+    font-weight: 500;
+
+}
+
+.kl_loginRigth{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.containerLogin {
+    max-width: 310px;
+    min-width: 310px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: auto;
+}
+
+
+.kl_linkToSite {
+    transform: translateX(-50%);
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    max-width: 345px;
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+}
+
+.color-selfizee {
+    color: #f62d51;
+}
+
+.font-ligth{
+    font-weight: 100;
+}
+/* Ipad */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+	.kl_loginLeft {
+	    padding-left: 35px;
+	    padding-right: 35px;
+	}
+
+}
+
+/* Iphone 5 */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+	.kl_loginLeft {
+	    padding-left: 35px;
+	    padding-right: 35px;
+	}
+}
+
+
+/* Iphone , 6 , 7 */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+	.kl_loginLeft {
+	    /*padding: 85px 30px;*/
+	}
+    .kl_loginTitle{
+        /*font-size: 16px;*/
+    }
+}
+
+/* Galasy S5 */
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 3){
+	.kl_loginLeft {
+	    padding: 35px 20px;
+	}
+}	
+
+@media screen (min-device-width : 768px)
+.kl_loginTitle{
+    font-size: 21px
+}

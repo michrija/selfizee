@@ -1,0 +1,1 @@
+ALTER TABLE `catalogues` ADD `nbr_pose` INT NULL AFTER `nom`, ADD `theme_id` INT NULL AFTER `nbr_pose`, ADD `format_id` INT NULL AFTER `theme_id`;

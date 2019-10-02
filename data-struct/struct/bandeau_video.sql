@@ -1,0 +1,1 @@
+ALTER TABLE `page_souvenirs` ADD `img_bandeau` VARCHAR(120) NULL AFTER `img_banniere`, ADD `url_video` VARCHAR(255) NULL AFTER `img_bandeau`;

@@ -1,0 +1,1 @@
+// $('.page-wrapper.sansMenu > .container-fluid.p-t-20').removeClass('container-fluid').addClass('px-4 align-logo');

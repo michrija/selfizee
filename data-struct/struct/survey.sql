@@ -1,0 +1,1 @@
+ALTER TABLE `photos` ADD `survey1` VARCHAR(250) NULL AFTER `is_optin_galerie`, ADD `survey2` VARCHAR(250) NULL AFTER `survey1`, ADD `survey3` VARCHAR(250) NULL AFTER `survey2`, ADD `survey4` VARCHAR(250) NULL AFTER `survey3`, ADD `survey5` VARCHAR(250) NULL AFTER `survey4`, ADD `survey6` VARCHAR(250) NULL AFTER `survey5`, ADD `survey7` VARCHAR(250) NULL AFTER `survey6`; 

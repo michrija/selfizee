@@ -1,0 +1,2 @@
+ALTER TABLE `filtres` ADD `filtre_type` INT NOT NULL DEFAULT '0' AFTER `nom`; 
+INSERT INTO `filtres` (`id`, `nom`, `filtre_type`, `created`, `modified`) VALUES (NULL, 'Cartoon', '1', NULL, NULL), (NULL, 'Sketch', '0', NULL, NULL), (NULL, 'Cross Process', '0', NULL, NULL), (NULL, 'Thermo', '0', NULL, NULL), (NULL, 'Nigth Vision', '0', NULL, NULL), (NULL, 'Comic Book', '0', NULL, NULL), (NULL, 'Pixel Arts', '0', NULL, NULL), (NULL, 'Mosaic', '0', NULL, NULL), (NULL, 'Little Britte', '0', NULL, NULL), (NULL, 'Warhol', '0', NULL, NULL), (NULL, 'Dave Hill', '0', NULL, NULL);

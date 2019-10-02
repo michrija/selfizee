@@ -1,0 +1,1 @@
+ALTER TABLE `page_souvenirs` ADD `is_active_lienextern` TINYINT(1) NULL DEFAULT NULL AFTER `lien_extern`;

@@ -1,0 +1,115 @@
+/* * * * * Popup * * * * */
+#informationModalCenter{
+	background-color : rgba(102, 102, 102, 0.75);
+	bottom : 0px;
+	color : #000000;
+	display : none;
+	left : 0px;
+	overflow : hidden;
+	position : fixed;
+	top : 0px;
+	right : 0px;
+	z-index : -1;
+}
+	.informationModalCenter{
+		background-color : rgb(255, 255, 255);
+		border: 40px solid #fff;
+		border-top: none;
+		margin : auto;
+		max-height: 350px;
+		min-height: 190px;
+		padding: 40px 0 0;
+		position : relative;
+		top: 60%;
+		opacity: 0;
+		overflow : visible;
+		width : 55%;
+	}
+	
+	.el_btn:active{
+		 -webkit-box-shadow: none;
+			-moz-box-shadow: none;
+				 box-shadow: none;
+	}
+	.el_btn:focus,
+	.el_btn:active:focus,
+	.el_btn.active:focus,
+	.el_btn.focus,
+	.el_btn.focus:active,
+	.el_btn.active.focus,
+	.el_container_menu_home_parent .el_container_menu_home_item:focus
+	{ outline: none; }
+
+	.el_btn_lg{ height: 50px; }
+	.el_btn_sm{
+		height: 37px;
+		min-height: 37px;
+		white-space: normal;
+	}
+	.el_edit{
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: auto;
+		display: inherit;
+		height: 20px;
+		width: 16px;
+	}
+	.el_edit{
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: auto;
+		display: inherit;
+		height: 20px;
+		width: 16px;
+	}
+
+	.el_btn.el_btn_valide, .el_btn.el_btn_mja{
+		background-color:#4a90e2; 
+		color: #fff;
+		font-size: 18px;
+		line-height: inherit;
+		min-width: 30%;
+	}
+	.el_btn.el_btn_annuler{
+		background-color: #fff; 
+		border: 1px solid #979797;
+		color: #979797;
+		font-size: 18px;
+		min-width: 30%;
+	}
+	.el_btn.el_btn_demande{
+		background-color: #fff; 
+		border: 1px solid #4a90e2;
+		color: #4a90e2;
+		font-size: 16px;
+		padding-left: 20px;
+		padding-right: 20px;
+		min-width: 30%;
+	}
+	.el_btn_annuler2{
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 31px;
+		display: block;
+		float: right;
+		width: 31px;
+	}
+	
+	.el_btn_fermer{
+		position: absolute;
+		right: -30px;
+		top: 10px;
+		z-index: 3;
+	}
+		.informationModalCenterCt{
+			max-height: 250px;
+			min-height: 110px;
+			overflow: auto;
+			position: relative;
+			z-index: 2;
+		}
+		.informationModalCenter .el_btn{ margin: 25px 6px 0; }
+		.mCSB_outside + .mCSB_scrollTools{ right: -14px !important; }
+		
+		#informationModalCenter .mCSB_outside + .mCSB_scrollTools { right: -14px !important; }
+		#informationModalCenter .mCSB_scrollTools{ top: 20px; }

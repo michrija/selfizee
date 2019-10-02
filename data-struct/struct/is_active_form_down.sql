@@ -1,0 +1,1 @@
+ALTER TABLE `page_souvenirs` ADD `is_active_form_down` TINYINT(1) NOT NULL DEFAULT '0' AFTER `evenement_id`;

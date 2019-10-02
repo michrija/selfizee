@@ -1,0 +1,32 @@
+﻿Methode GET
+URL : https://managerdev.selfizee.fr/evenements/getByCodeLogiciel/8D9F1C11.json ( ici le code logiciel = F5FBAB35 )
+Reponse si pas ok :
+{
+   "success":false,
+   "message":"Evenement non trouvé"
+}
+
+Reponse si ok :
+{
+   "success":true,
+   "evenement":{
+      "id":822,
+      "user_id":1,
+      "client_id":1,
+      "nom":"HUUIUIUIRTYYUY",
+      "slug":"HUUIUIUIRTYYUY",
+      "is_marque_blanche":null,
+      "is_data_acces":null,
+      "is_galerie_public":true,
+      "is_galerie_active":false,
+      "date_debut":"2019-08-30 00:00:00",
+      "date_fin":"2019-08-30 00:00:00",
+      "lieu":"admin",
+      "print_counter":0,
+      "deleted":false,
+      "type_evenement_id":2,
+      "code_logiciel":"8D9F1C11",
+      "created":"2019-08-30 09:00:11",
+      "modified":"2019-08-30 13:22:03"
+   }
+}

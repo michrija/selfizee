@@ -1,0 +1,12 @@
+        <div class="col-md-5 kl_oneInfo ml-3 rounded">
+            <div class="row">
+                <div class="col-xs-4">   
+                  <?php echo $this->Form->text('to', ['value'=>'jj/mm/aaaa-jj/mm/aaaa', 'type' => 'text', 'class' => 'form-control input-daterange-datepicker', 'label' => false, 'id' => 'kt_datepicker']); ?>
+                </div>
+                <div class="col-xs-2 ml-2">   
+                  <?php echo $this->Form->text('to', ['value'=>'jj/mm/aaaa-jj/mm/aaaa', 'type' => 'text', 'class' => 'form-control input-daterange-datepicker', 'label' => false, 'id' => 'kt_datepicker']); ?>
+                </div>
+            
+            </div>
+
+        </div>

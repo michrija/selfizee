@@ -1,0 +1,1 @@
+ALTER TABLE `cadres` ADD `file_overlay` VARCHAR(120) NULL AFTER `file_name`;

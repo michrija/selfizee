@@ -1,0 +1,1 @@
+ALTER TABLE `evenements` ADD `date_debut` DATETIME NOT NULL AFTER `is_data_acces`, ADD `date_fin` DATETIME NOT NULL AFTER `date_debut`;

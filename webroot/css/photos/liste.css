@@ -1,0 +1,36 @@
+.sf-video {
+    text-align: center !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	background-position: center !important;
+}
+.kl_bloc_check_suppr {
+    position: absolute;
+    z-index: 1;
+    top: 2px;
+    left: 2px;
+}
+
+.btn-danger:focus {
+    background-color: #ed195f;
+    border: 1px solid #ed195f; 
+}
+.btn.btn-success.kl_btn_refresh, .btn.btn-success.kl_btn_filtrer{
+    color: white;
+}
+
+.kl_customActionPhoto {
+    margin-bottom: 1.25rem;
+}
+
+.kl_imageInBackground {
+    background-size: contain !important;
+    background-position: center !important;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: no-repeat;
+}
+.kl_contentBlockPhoto{
+    height: 100%;
+}

@@ -1,0 +1,21 @@
+WS GESTION LICENCE :
+
+- Creation (POST)
+    url: https://managerdev.selfizee.frlicences/save 
+    data: id_borne, duree
+
+- Get
+    url: https://managerdev.selfizee.frlicences/get/{{ id_borne }}
+
+- Listing
+    url: https://managerdev.selfizee.frlicences/getAll
+
+    
+- Suppression (POST)
+    url: https://managerdev.selfizee.frlicences/deleteLicence
+    data: id_borne
+
+- Cryptage depuis Soft (POST)
+     url: http://manager.selfizee.cell/licences/encryptFromSoft
+    data: id_borne, numero_serie_crypte_from_soft
+    

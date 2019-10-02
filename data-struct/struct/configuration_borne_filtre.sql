@@ -1,0 +1,1 @@
+ALTER TABLE `configuration_bornes` ADD `is_filtre` BOOLEAN NOT NULL DEFAULT FALSE AFTER `disposition_vignette_id`; 

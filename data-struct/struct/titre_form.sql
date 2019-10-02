@@ -1,0 +1,1 @@
+ALTER TABLE `configuration_bornes` ADD `titre_formulaire` VARCHAR(250) NULL AFTER `is_prise_coordonnee`; 

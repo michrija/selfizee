@@ -1,0 +1,1 @@
+INSERT INTO `roles` (`id`, `nom`, `alias`, `description`, `created`, `modified`) VALUES ('7', 'Acces client', 'Acces client', NULL, '2019-08-29 00:00:00', NULL);

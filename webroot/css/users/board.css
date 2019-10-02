@@ -1,0 +1,73 @@
+.card-body.custom-card {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.kl_titreBlocBoard {
+    font-weight: 600;
+    color: black;
+    font-size: 16px;
+}
+
+.kl_contentBlocBoard {
+    margin-top: 25px;
+    font-weight: 450;
+    color: black;
+}
+
+.kl_indetifiantConnexionValuue {
+    font-weight: 700;
+}
+
+.kl_linkActionBoardUser {
+    display: block;
+    color: #ed195f;
+    font-weight: 500;
+}
+
+.kl_linkActionBoardUser:hover{
+	text-decoration: underline;
+}
+
+.kl_blocLinkAction {
+    margin-top: 20px;
+}
+
+hr.kl_theSeparator {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.kl_oneInfoBlocEl {
+    font-weight: 450;
+    color: black;
+    padding-top: 25px;
+    font-size: 16px;
+}
+
+.kl_titreSoustitreBloc {
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+}
+
+.kl_comentaireBloc {
+    color: lightgrey;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.kl_imgBorne {
+    width: 85%;
+}
+
+.kl_imageCenter {
+    text-align: center;
+}
+
+.kl_marginBottom45{
+	margin-bottom: 55px;
+}

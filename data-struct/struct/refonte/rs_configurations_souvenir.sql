@@ -1,0 +1,1 @@
+ALTER TABLE `rs_configurations` ADD `page_souvenir_id` INT NOT NULL AFTER `evenement_id`;

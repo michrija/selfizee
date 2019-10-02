@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loyal-coyote-228812",
+  "private_key_id": "9ea90134d0ead12a6592ad1ea21e2d2578f0ff88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVPKPgBxLQ6xe8\n8WXJBjAIabGdcsmRf2d9ciSysOh6mtYYnZCQPG9dNY8p+kcY4goPKP0XX8lToPFC\n6Or8gaPPuCjSg9Qg5tfBEav4sFrMKnLUg+DlG0rCsaZI6shsRFds2+K/YRnZwvy2\nagEvEZO+GIGvWqAeYP6WOBPAX1oZGJF8JUUTxr6Qee+E/eQhe3y+jmrxkx7e+MRT\nLVEZ6vsLHHrBGM0Dm1hAQ+SA7dollvl+T2BAi85GezJ6rFDHYdLvLmKltaKAgEHV\n27JZUb/BUNHSliEOcrk9tLXOA/kEtteyRnnKRotTfk3rB4z5E2aW9muGpeyvJg1a\nlUhOGEsrAgMBAAECggEAJm67ipE7zvPQX3mSwtyeo6WJIbuioNq5qF5+Rsaj4BUw\nKVecyqJZ4A7bMtGtJsr2zSyyERhujOghE9IvKDulbrbehLLF9PgmQuIQgM4oT0wH\nTk5GpoR4wQaL1fCbFwhqSXCIOb4ijqEaMzZ/6B/e5RA9r4FCArewqxqIVM/ayVLT\n+87L/4Shz5dnchCOGmmu0731GCJKuqeu/4D59qemgT8WjvGkns5kVndRUfzNkOxb\ndFVBXzzMnwhsstJX7OOMNKeuBbAZo1OGtfMoIejqblXGzSgiTlGG1AWv+wuVWOMA\n7esHPeM+kFxUcYIIQPCZMsEcenQ5IvRoPgMJAa8eAQKBgQDzNAtQIj7eDjGBZX4S\n7NMZkOycZX4jhrb1my9j7e88J30R8gBKTHq/nxrakuCFesEjUZuV9hcFtY8PrROS\n8Fy/jtsfTMAqV6qhIq9sd2hspJedpuzqy/hMx4/rHs0Ftsv0+Jkkf2RYq2edPMll\nvkOBhgsrtm8l27Z8AsJP0pY46wKBgQDgdPKEMcFpTaKGBJ/54umNc+v/IsPc+3Hi\nrOVcZ63I7QmcWKu440ZTWCxspKpAhHnZR9JExnb0LPHG1vrnS4tsfaEkBbBkDzw5\n8D/+Vr+0kdbT4SEeMWdTolhfhJJmxGrNjXcgN6u+7pfBoeECJeal9/0Jo/xxMUoM\nOBxVOg2mwQKBgQDs5BjQ6UqLSQ/3lkCDdqL5GC0g+cswF5xHB+3VTIHm+h/dRvf5\nZx15YSTrGn4QBk3ydR8zpw0txnefMVsLmYz+GcxeZIgZtmLBqeNtp7HTgU8dhObo\nnd0yDICm6M2Tb0ajSzMAVgYMSIkYo4kYzYc7trFS1tTU73qEuLtEvT8OGQKBgCL9\n+GTlgNqS0NiF1g7V8kUsIkmHOPO1e360J5mtTCl70ri+Fh9fxzHtGBfj3+ro/DoE\neWJhcmAEtbijAUCXxWenejysamBfA6ugqclT6tUSu2QSv9/+IbanI5HYkB5XVrMu\n77hlFXBRr/Tu8K4uDHQpYhhjqVJYNcwL31bmEwTBAoGBAODAeOlCpCIiSOiHJIK+\nBv/mPwE/5miLkrSWimdoY5Gr5HiSYjUkoynd/ojtLeWMYGu0KRhUQ4PfldRBzSWm\n5SbkI8l0X6FRyqHbSodIv3pqsEt9SMVM5LGKV982C1R0UVA6XNTsM3No3trIF6zh\nFvFv9w8gGRr74YEF3X4DRw9d\n-----END PRIVATE KEY-----\n",
+  "client_email": "gs-cs-tracking-page@loyal-coyote-228812.iam.gserviceaccount.com",
+  "client_id": "107635727659738145296",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gs-cs-tracking-page%40loyal-coyote-228812.iam.gserviceaccount.com"
+}

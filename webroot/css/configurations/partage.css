@@ -1,0 +1,166 @@
+ul.step_partage {
+    list-style:none;
+   }
+
+ul.step_partage li {
+display:inline;
+}
+
+.num_step_partage{
+    border: 2px solid #F0F0F0;
+    color: black;
+    font-weight: 500;
+    padding: 5px 12px;
+    border-radius: 25px;
+    background: #F0F0F0;
+    margin-right: 15px;
+}
+
+
+.list_choix_part label span {
+    font-weight:500;
+    padding-left:15px !important;
+  }
+
+  
+.list_choix_affichage_part label span  {
+    font-weight:500;
+    padding-left:0px !important;
+}
+
+.part_step_2 ul.tabs-vertical li,
+.options_avancees ul.tabs-vertical li {
+  width:250px !important;
+  font-size:14px;
+}
+
+.part_step_2 ul.tabs-vertical li a  {
+  padding:20px 10px 20px 80px;
+}
+
+.options_avancees ul.tabs-vertical li a  {
+  padding:20px 10px 20px 20px;
+}
+
+.part_step_2 ul.tabs-vertical li a,
+.options_avancees ul.tabs-vertical li a  {
+  background-color:#F0F0F0 !important;
+  border:0px solid black !important;
+  margin-bottom:0px !important;    
+  border-radius:0px !important;
+}
+.part_step_2 ul.tabs-vertical li:nth-of-type(1),
+.options_avancees ul.tabs-vertical li:nth-of-type(1)  {
+  border-bottom:1px solid #90a4ae82 !important;
+  margin-bottom:1px !important;
+}
+.part_step_2 ul.tabs-vertical li a i,
+.options_avancees ul.tabs-vertical li a i  {
+  color:#F0F0F0;
+}
+
+.part_step_2 ul.tabs-vertical li a:hover,
+.part_step_2 ul.tabs-vertical li a.active,
+.options_avancees ul.tabs-vertical li a:hover,
+.options_avancees ul.tabs-vertical li a.active {
+  color:#e72763 !important;
+}
+.part_step_2 ul.tabs-vertical li a.active i,
+.options_avancees ul.tabs-vertical li a.active i   {
+  color:#e72763;
+}
+
+.icon_vers {
+    border: 3px solid #e72763;
+    /* height: 5px !important; */
+    padding: 0px 9px;
+    border-radius: 30px !important;
+    margin-right: 10px;
+    background: none;
+}
+
+/* */
+.step_email ul li:nth-of-type(1) {
+  margin-right:10px !important;
+}
+
+.step_email ul li a {
+  padding-bottom:0px !important;
+  padding-left:0px !important;
+}
+
+.step_email ul li a i {
+  color:#fff;
+}
+
+.step_email ul li a.active i {
+  color:#ed195f !important;
+}
+
+.step_email ul li a.active {
+  border-bottom:4px solid #ed195f !important;
+  color: #000 !important;
+}
+
+/*steps*/
+.steps ul li {
+	font-weight:600;
+  font-size:14px;
+}
+.steps ul li.current a  {	
+	padding-bottom:10px;
+	color:#000 !important;
+	border-bottom:3px solid #e72763 !important;
+}
+.config_step .steps {
+  line-height: 2.5 !important;
+  margin-top:0px !important;
+  padding:0px;
+  margin-bottom: 0px !important;
+}
+
+
+.label_titre label.config_label_titre {  
+	font-weight:600 !important;
+  font-size:14px;
+  color:#2f3d4a !important;
+}
+.config_btn button {
+  padding: 5px 8px 5px 8px;
+}
+
+
+.sous_header {
+  height: 45px; 
+  border: 0px solid;
+  background: #F0F0F0; 
+}
+
+/*.config_step .content{
+  border: 1px solid;
+  height: 40px;
+  width: 155%;
+  margin-left: -234px;
+}*/
+
+/*Tabs step*/
+
+.tab_steps ul.tab_step_list li a {
+  padding-bottom:0px !important;
+  padding-left:5px !important;
+  font-size:13px !important;
+  padding-top:10px !important;
+  padding-right:5px !important;
+	color:#2f3d4a !important;
+	font-weight:600 !important;
+	font-size:14px !important;
+}
+
+.tab_steps ul.tab_step_list li a.active {
+  border-bottom: 5px solid #ed195f;
+}
+
+
+.tab_steps ul {
+	border-bottom:0;
+}

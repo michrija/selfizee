@@ -1,0 +1,71 @@
+.kl_sousTitrePage{
+    padding-left: 0px;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+.kl_titreGroupe {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: black;
+}
+
+.kl_theListeFonctionnalite {
+    margin-top: 19px;
+}
+
+.kl_oneBockConfigure {
+    background: white;
+    border-radius: 5px;
+}
+
+.kl_headerBlock {
+    padding: 25px;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.kl_theTitreBlock {
+    font-weight: 600;
+    font-family: Montserrat;
+    color: black;
+}
+
+.kl_descTitreBlock {
+    font-family: Montserrat;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.kl_bodyBlock {
+    min-height: 100px;
+}
+
+.kl_bodyBlock ul {
+    padding: 0px;
+    list-style: none;
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.kl_bodyBlock ul li {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.kl_bodyBlock ul li:last-child {
+    border-bottom: none !important;
+}
+.kl_bodyBlock ul li a {
+    color: #e72763;
+    font-weight: 500;
+    font-family: Montserrat;
+    padding: 15px 25px;
+    display: block;
+}
+
+.kl_creditRestantInTitre {
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    padding-top: 10px;
+}

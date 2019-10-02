@@ -1,0 +1,87 @@
+.conditional {
+  margin: 1em 0 0.5em;
+  border-top: 2px dotted #eee;
+  padding-top: 1em;
+  color: rgba(0,0,0,.7);
+  font-size: .9em;
+}
+.conditional > .conditional {
+  color: rgba(0,0,0,.5);
+}
+
+#demo {
+  text-align: center;
+  padding: 1.5em 3em;
+  background: ;
+  width: 60vw;
+  margin: 2em auto;
+  border-radius: .5em;
+  font: 24px/30px 'Open Sans', Arial, Verdana, serif;
+}
+
+label {
+  vertical-align: middle;
+  position: relative;
+  font-size: 17px;
+}
+
+label + label {
+  margin-left: 1em;
+}
+
+input + span{
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #ed185e;
+}
+
+input[type=radio] + span {
+  border-radius: 50%;
+}
+
+input[type=radio]:checked + span {
+  background: rgba(106,181,169,1);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(106,181,169,1) 44%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 55%);
+  background: #ed185e;
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(106,181,169,1) 44%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 55%);
+  background: -o-radial-gradient(center, ellipse cover, rgba(106,181,169,1) 44%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 55%);
+  background: -ms-radial-gradient(center, ellipse cover, rgba(106,181,169,1) 44%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 55%);
+  background: radial-gradient(ellipse at center, rgba(106,181,169,1) 44%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 55%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6ab5a9', endColorstr='#ffffff', GradientType=1 );
+
+}
+
+input[type=checkbox]:checked + span:after {
+  content: "\00d7";
+  font-weight: bold;
+  position: absolute;
+  top: -7px;
+  left: 1px;
+  font-size: 20px;
+  color: #ed185e;
+}
+ 
+input[type=radio],
+input[type=checkbox] {
+  /*hide the radio button*/
+  filter:alpha(opacity=0);
+  -moz-opacity:0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+
+select,
+input[type=text] {
+  border-radius: 5px;
+  padding: 6px 10px;
+  border: 2px solid #ed185e;
+  font-color: #666;
+  font-size: 15px;
+}
+.main-wrapper {
+    width: 100%;
+    background: violet;
+}

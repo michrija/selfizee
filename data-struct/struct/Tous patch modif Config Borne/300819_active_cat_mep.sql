@@ -1,0 +1,1 @@
+ALTER TABLE `ecrans_navigations` ADD `is_active_catalogue_mep` TINYINT(1) NOT NULL DEFAULT '0' AFTER `configuration_borne_id`, ADD `catalogue_id` INT NULL AFTER `is_active_catalogue_mep`;

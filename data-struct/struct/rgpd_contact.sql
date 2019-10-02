@@ -1,0 +1,2 @@
+ALTER TABLE `contacts` ADD `deleted_via_rgpd` TINYINT(1) NULL COMMENT 'vaut true si supprimé via la rgpd' AFTER `source_upload`;
+ALTER TABLE `contacts` ADD `deleted_date` DATETIME NULL COMMENT 'Date de suppression via la rgpd' AFTER `deleted_via_rgpd`;

@@ -1,0 +1,3 @@
+CREATE TABLE `galerie_downloads`(     `id` INT NOT NULL AUTO_INCREMENT ,     `galerie_id` INT NOT NULL ,     `source_download` INT ,     `created` DATETIME ,     `modified` DATETIME ,     PRIMARY KEY (`id`)  )  ENGINE=INNODB COMMENT='' ROW_FORMAT=DEFAULT  ;
+ALTER TABLE `galerie_downloads` ADD `queue` VARCHAR(250) NULL AFTER `source_download`; 
+ALTER TABLE `galerie_downloads` ADD `evenement_id` INT NULL AFTER `galerie_id`; 

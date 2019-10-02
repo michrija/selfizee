@@ -1,0 +1,8 @@
+CREATE TABLE `visiteurs` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `full_name` VARCHAR(250) NOT NULL,
+  `email` VARCHAR(250) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=INNODB DEFAULT CHARSET=utf8;
+ALTER TABLE `photos`     ADD COLUMN `visiteur_id` INT NULL AFTER `is_validate`;
+ALTER TABLE `photos` ADD CONSTRAINT `FK_photos` FOREIGN KEY (`visiteur_id`) REFERENCES `visiteurs` (`id`) ON DELETE SET NULL  ON UPDATE SET NULL ;

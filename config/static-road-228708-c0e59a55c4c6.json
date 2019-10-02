@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "static-road-228708",
+  "private_key_id": "c0e59a55c4c67e6166109d3dcac63180fc62bb61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjCXU+krbzp8gr\nWKxeVF32tFhJqVeqIGjt1HffbvvovbV1BTRRyIM9MzR79cDnwypoyjgYn4Vw5qI7\nSiF01F4Pi8ZMZfJrjI7NDOmJju2jEHBC38L4e43X9nZpw0iCPJoOAPdP8tq3EHCk\nRIXWr6HBDF1TcjLXRYklN9rxac5Ft5hpJnKschSXjT7RMz9hXzlWHc9hB/Dt6BO0\nxCuCVAcgZi0P3x3moC+FpTAlNE8RwJ6aYph4M9SBArdnKZ1iL43ejfsX7t9EyP4J\nkEkzvqc6LyL0i3rKd2no/FMi0Iwx8buY0gajh/V3jHTi1LXd0xcVU472bI60/VOh\n4cm2Psy5AgMBAAECggEAN2Pbtu4OhRpQKdXe/c9I+yuLQT9svqpzK7X/IeRpZkmp\nj/+8Jjrqx4yRfLniF3tZea+WPltX8SMSI/WMB06tRDfXH5aVNU/UJjsITslF2Bwa\nH8Y4zcXgS2p7EXScuk6Pgkl2vG1EPGSz+EMle2pBGL60KEkIl9WSghgHZPRu9YUe\n16fMatgI4lMB3VAq9YHzL2yARXoDGifuIZrV7+vElJXgul5h88cqdf46Ua77r14R\ndEk3Xq+Y/fOAUJRcsfMxqyhcM0ndX/jdjk1s8uiJ2JPEKcI9u5VZZ4HUyK0AhhjO\nEFZvWz43eZUsj6YdYtbaAjvfu/BDfQ3kWfijqUkuNwKBgQDdgBJaPStdLzUoM1Gh\nRWKwcaaU155iCQPTd/6EvhEEr+am+23eq49LuvfSHfzBrLAM6629CgVj84jrg7Zj\ntj4Z9QrjmEQWvrZGV+P5EoRwln3Pn+rEOPDUmkvtu0G8P5OmN6wCWO9GpfrEVqeg\ns5blif2oLK0c4JVMvasbtEgpuwKBgQC8bkPiaVmKiLeELfOkikuqMONg8GSl1e1W\nI9KY5cfaVmSvSkpHJR2dazRkQVKLYmlfdmsAHtHNJ2CIe5oGzAFqdQMhe4/NYiJz\no0RNgSbvTRpXhuQDtrPJRcCwzM1xdsmVlPlXL+Xr2yImUdFmfPOyddGyVpCXvUqy\nljm1M0XSGwKBgGyb6uPSkJvNlQwUNdeVFTIdWCgtndzGPNkJQoTGScP5mGiSaqo/\nhzEECZY+2/v/eAet3HAQJNqAxMduuxUjfEnwDJnSxLg+ZVQSrpcnzEcEk8YlzNDQ\nds5Yphh4tF/g8L4VGEPCZflHU7HIJ8O1q6z7v6Qh2/SH7s1FR0x7VtMXAoGAWcfH\n/IbprQI7PnWOkyV5q9ujWzrvGbz2Woay/zrsoHFtg7/H6GIc3DaKPgKJy/PV9TA9\nB0+n8zIB4sXRu89UFV8vYLK478kEVUjDcJJK9NYt6OpSlhplS0864oKSmK9amTTk\nINCnoltEyDFPrp92ld9hTLHGLyZ4AuNlF5sYd2UCgYAhH9B9pLsEyS8EEtutoJBd\n8izBafDg1Vv1voYc5XZ1t73FOVd/PQPe2TmHjFNJUhfJZ1qauRZFZYiyIck81QMy\nLyfRlXdiQOOxuxjf0Ns/Gw7MNOeD4Ny9e/rmzStvdj2eBSGVt4c5EFZozB8TGxyX\nDSDU1k8faU/qLkgqnD+v7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-cs-manager-selfizee@static-road-228708.iam.gserviceaccount.com",
+  "client_id": "101059629049193928295",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-cs-manager-selfizee%40static-road-228708.iam.gserviceaccount.com"
+}

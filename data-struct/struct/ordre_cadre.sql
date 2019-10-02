@@ -1,0 +1,1 @@
+ALTER TABLE `cadres` CHANGE `order` `ordre` INT(11) NULL DEFAULT NULL; 

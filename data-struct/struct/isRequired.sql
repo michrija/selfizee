@@ -1,0 +1,1 @@
+ALTER TABLE `champs` ADD `is_required` TINYINT(1) NOT NULL DEFAULT '0' AFTER `configuration_borne_id`;

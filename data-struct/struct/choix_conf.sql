@@ -1,0 +1,1 @@
+ALTER TABLE `ecrans` ADD `page_choix_configuration` VARCHAR(250) NULL AFTER `btn_page_accueil`; 

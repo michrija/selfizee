@@ -1,0 +1,66 @@
+.kl_blocEnBas{
+    background: #f8f9fb;
+    padding: 25px 15px;
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+a.kl_ajouterMinLien {
+    font-size: 13px;
+    padding: 5px 10px;
+    background: #585858;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    color: white;
+}
+.kl_toAddMiniature {
+    padding: 0px;
+}
+
+.kl_spearator{
+	border: 1px solid 
+}
+
+select.form-control.kl_listeChoixParam.pull-left {
+    font-size: 13px;
+    padding-top: 0;
+    line-height: 3;
+    padding-bottom: 0;
+    height: 28px;
+    min-height: 28px;
+    width: 195px;
+    color: #707070;
+}
+
+.kl_spearator {
+    height: 25px;
+    border-left: 1px solid #c9c9cb;
+    margin-top: 2px;
+}
+
+.kl_oneIconShare {
+    width: 35px;
+    height: 35px;
+    padding: 0px;
+}
+
+input.kl_forIcon {
+    width: 125px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.kl_forIconBlock .form-group {
+    float: left;
+}
+
+i.fa.fa-download {
+    color: white;
+}
+
+a.kl_ajouterMinLien.kl_blocIndicationAdd {
+    width: 175px;
+    margin-bottom: 25px;
+}

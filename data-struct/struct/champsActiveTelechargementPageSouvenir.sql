@@ -1,0 +1,3 @@
+ALTER TABLE `download_configurations` ADD `is_nom_active` TINYINT(1) NOT NULL DEFAULT '0' AFTER `evenement_id`, ADD `is_prenoms_active` TINYINT(1) NOT NULL DEFAULT '0' AFTER `is_nom_active`, ADD `is_tel_active` TINYINT(1) NOT NULL DEFAULT '0' AFTER `is_prenoms_active`, ADD `is_email_active` TINYINT(1) NOT NULL DEFAULT '0' AFTER `is_tel_active`, ADD `is_optin_active` TINYINT(1) NOT NULL DEFAULT '0' AFTER `is_email_active`;
+
+ALTER TABLE `infos_downloads_page_souvenirs` ADD `optin` VARCHAR(255) NULL AFTER `email`;

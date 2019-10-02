@@ -1,0 +1,1 @@
+ALTER TABLE `contacts` ADD `nom_de_domaine_id` INT NULL AFTER `email_propose`;

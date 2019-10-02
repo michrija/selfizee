@@ -1,0 +1,1 @@
+ALTER TABLE `email_configurations` ADD `clients_modeles_email_id` INT NULL AFTER `evenement_id`;

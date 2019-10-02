@@ -1,0 +1,15 @@
+html, body{
+    background: black;
+}
+.image-background {
+    width: auto !important;
+    height: 100vh;
+    background-position: 50% 50% !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.wrapper {
+  width: 100%;
+  position: fixed; 
+}

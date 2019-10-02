@@ -1,0 +1,1 @@
+ALTER TABLE `editeur_templates` ADD `titre_menu` VARCHAR(100) NULL DEFAULT NULL AFTER `type_editeur`;

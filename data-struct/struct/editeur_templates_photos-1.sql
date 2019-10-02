@@ -1,0 +1,2 @@
+ALTER TABLE `editeur_templates_photos` ADD `is_deleted` TINYINT(1) NOT NULL DEFAULT '0' AFTER `editeur_template_id`, ADD `created` DATETIME NULL AFTER `is_deleted`;
+ALTER TABLE `editeur_templates_photos` ADD `modified` DATETIME NULL AFTER `created`;

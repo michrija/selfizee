@@ -1,0 +1,80 @@
+
+.kl_sousMenu{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.kl_customBreadCumb{
+	float : left;
+}
+
+.kl_customBreadCumb span {
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: black;
+}
+
+.kl_iconSup{
+	padding-left: 10px;
+	padding-right: 10px;
+    color: black;
+}
+
+.kl_dateEtVille {
+    float: left;
+    margin-left: 25px;
+    color: gray;
+    font-size: 14px;
+}
+
+.kl_theVille{
+	text-transform: capitalize;
+}
+
+.kl_iconEdit{
+	padding-left : 10px;
+}
+
+ul#id_menuLeftList {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+ul#id_menuLeftList li, ul#id_menuLeftList{
+	list-style: none;
+}
+
+ul#id_menuLeftList > li > a{
+	color: #ed195f;
+    font-weight: 500;
+    font-size: 15px;
+    padding-top: 10px;
+    display: block;
+    padding-bottom: 10px;
+}
+
+ul#id_menuLeftList > li > ul > li > a{
+	padding-top: 13px;
+    padding-bottom: 13px;
+    display: block;
+    color: gray;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+ul#id_menuLeftList li > ul {
+    padding-left: 0px;
+}
+
+ul#id_menuLeftList li > ul> li {
+    padding-left: 40px;
+}
+
+ul#id_menuLeftList li > ul> li.active, ul#id_menuLeftList li > ul> li:hover {
+    border-left: 10px solid #ed195f;
+    padding-left: 30px;
+}
+
+.kl_customBreadCumb span:hover{
+    color: #ed195f;
+}

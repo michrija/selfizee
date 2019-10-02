@@ -1,0 +1,1 @@
+ALTER TABLE `email_configurations` ADD `couleur_btn_download` VARCHAR(200) NULL AFTER `content_code_promo`, ADD `couleur_share_facebook` VARCHAR(200) NULL AFTER `couleur_btn_download`, ADD `couleur_share_twitter` VARCHAR(200) NULL AFTER `couleur_share_facebook`, ADD `couleur_share_instagram` VARCHAR(200) NULL AFTER `couleur_share_twitter`; 

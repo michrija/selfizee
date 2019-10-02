@@ -1,0 +1,1 @@
+ALTER TABLE `catalogues` ADD `description` VARCHAR(255) NULL AFTER `nom`;

@@ -1,0 +1,1 @@
+ALTER TABLE `configuration_bornes` ADD `type_media_id` INT NULL AFTER `type_mise_en_page_id`;

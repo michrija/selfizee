@@ -1,0 +1,20 @@
+.kl_labelCustomMonsterat, #id_activationFonctionaliteMarketing{
+    font-family: inherit;
+    font-weight: 500;
+}
+
+.wizard-content .wizard>.steps>ul {
+    padding-bottom: 10px;
+}
+
+#id_creationEvenement.wizard-content .wizard>.steps>ul>li a, .kl_texteIntroMarketing, .wizard-content .wizard>.actions>ul>li>a {
+    font-family: inherit;
+}
+
+.wizard-content .wizard>.steps>ul>li:after {
+    left: 258px;
+}
+
+.wizard-content .wizard>.steps {
+    margin-bottom: 25px;
+}

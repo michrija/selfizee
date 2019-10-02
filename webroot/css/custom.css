@@ -1,0 +1,269 @@
+.pagination {
+
+    width: 35%;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+/*  Refonte  */
+.sf-rose{
+	color: #e72763;
+}
+.sf-border-hr{
+	border-bottom: solid 1px #F1F1F1;
+}
+.sf-breadcrumb a{
+	font-size: 14px;
+	color: #b6b6b6;
+}
+.breadcrumb li.active a, .breadcrumb li a:hover{
+	color: #ed185e;
+}
+
+.sf-list-pers{
+	list-style: none;
+	padding: 0;
+}
+.sf-list-pers li span.custom-control-label{
+	margin-right: 35px;
+}
+.sf-list-pers li{
+	margin-bottom: 15px;
+	background-color: #fbfbfb;
+}
+.sf-bg-gris{
+	background-color: #fbfbfb;
+}
+.sf-bg-default{
+	background-color: #F5F5F5;
+}
+.sf-bg-default h3{
+	font-size: 33px;
+}
+.sf-input-group .sf-input-group-icon{
+	font-size: 20px;
+	left: 28px;
+	position: absolute;
+	top: 4px;
+}
+.sf-input-group input{
+	padding-left: 40px;
+}
+
+/* catalogue */
+.sf-box-catalogue{
+	-webkit-box-shadow: 1px 3px 17px 1px rgba(204,204,204,1);
+	-moz-box-shadow: 1px 3px 17px 1px rgba(204,204,204,1);
+	box-shadow: 1px 3px 17px 1px rgba(204,204,204,1);
+}
+.sf-box-catalogue figure{
+	height: 190px;
+	overflow: hidden;
+	text-align: center;
+	padding: 0 40px;
+}
+.sf-box-catalogue img{
+	max-width: 100%;
+	max-height: 190px;
+	width: auto;
+}
+.sf-box-mep img{
+	max-height: unset;
+}
+.sf-box-catalogue button{
+	width: 100%;
+}
+.sf-cursor{
+	cursor: pointer;
+}
+.sf-align-top{
+	align-items: flex-start;
+}
+
+/* animation */
+.sf-bg-animation{
+	background-color: #f6f7f9;
+	border: 1px solid #f6f7f9 !important;
+}
+.sf-bg-animation.active, .sf-bg-animation:hover{
+	border-color: #ed185e !important;
+}
+.sf-bg-animation p{
+	font-size: 14px;
+}
+.sf-bg-animation figure{
+	height: 120px;
+	display: flex;
+}
+.sf-bg-animation .bg-flex{
+	height: 120px;
+}
+.sf-bg-animation .bg-flex .m-a{
+	margin: auto;
+	margin-left: 0;
+}
+.sf-bg-animation img{
+	max-width: 100%;
+	max-height: 120px;
+	width: auto;
+	margin: auto;
+}
+.sf-dashed{
+	border: dashed 1px #ddd;
+	padding: 2px;
+}
+.sf-champ-dynamique .sf-form-action{
+	position: absolute;
+	right: 8px;
+}
+.customtab2 li a.nav-link:hover, .customtab2 li a.nav-link.active{
+	background: #ed185e;
+}
+.sf-form-fichier{
+	padding: 0;
+	height: 36px;
+}
+.sf-apercus{
+	
+}
+/* color picker */
+.asColorPicker-wrap{
+	width: auto;
+}
+
+/* Uniformisation largeur bouton */
+.sf-btn-pers{
+	width: 180px;
+}
+
+/* Bloquer la barre en bas, pour qu’elle ne flotte pas */
+footer .footer {
+    margin-top: 20px;
+}
+.page-wrapper {
+    padding-bottom: 0px;
+}
+
+.page-wrapper .align-logo, .page-content, .page-wrapper, .page-content .align-logo, .content-container {
+    min-height: 1024px !important;
+}
+
+/* html coloré, sinon espace blanc entre contenu et footer */
+html {
+    background: #f0f2f6;
+}
+
+/* Logo + petit */
+.topbar {
+    top: 0;
+}
+.topbar .top-navbar .navbar-header {
+    text-align: left;
+    padding: 0 30px;
+}
+
+.topbar .top-navbar .navbar-header .kl_logoSelfizee {
+    height: auto;
+    width: 7.2em;
+}
+
+/* Sur ma créa, j’avais agrandi la hauteur de la barre */
+.topbar .top-navbar {
+    min-height: 90px;
+}
+
+/* système d’ombre sous les blocs  */
+.kl_countEmail {
+    box-shadow : 0 0 13px 0 rgba(82,63,105,.1)!important;
+    border:  1px solid #ebeef5
+}
+
+
+/* Aligner la vue à gauche et avec le logo */
+.align-logo {
+    padding-left: 1.9rem!important; 
+    padding-right: 1.9rem!important; 
+}
+
+@media (max-width: 767px) {
+    #id_theSousMenu {
+        margin-top: 100px;
+    }
+}
+
+ul#id_menuLeftList > li > a:hover {
+    color:  #ed195f;
+}
+ul#id_menuLeftList > li > a {
+    color:  #000;
+}
+
+/* menu_left sous li menu dégradé */
+li.degrade-sousmenu {
+    border-left: 10px solid #ed195f;
+    padding-left: 12px !important;
+    background-image: linear-gradient(to right, lightgray, transparent);
+}
+
+ul#id_menuLeftList ul.inner-menu li:not(.degrade-sousmenu) {
+    padding-left: 22px;
+}
+
+ul#id_menuLeftList li > ul> li:hover {
+    padding-left: 12px !important;
+    background-image: linear-gradient(to right, lightgray, transparent);
+}
+
+/* Réduire un peu l’interligne  entre les liens d’une sous rubrique */
+ul#id_menuLeftList > li > ul > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar .navbar-toggler {
+    margin-left: 20px;
+}
+.navbar .navbar-toggler {
+    display: none !important;
+}
+
+
+/* Réduire espace gros trou menu gauche cf layout default.ctp */
+@media (min-width: 992px) {
+    .col-modif-lg-10 {
+        -ms-flex: 0 0 83.333333%;
+        flex: 0 0 89.333333%;
+        max-width: 89.333333%;
+    }
+
+    .col-modif-lg-2 {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 10.666667%;
+        max-width: 10.666667%;
+    }
+
+    .thumbevent-board img {
+        height: 150px;
+    }
+
+}
+
+form#form-photos .dropzone {
+    border: 2px solid #f2f2f2;
+}
+
+/* Menu left */
+#id_menuLeftList .li-menu:not(.li-active) ul.inner-menu {
+    display: none;
+}
+
+.btn-grey {
+    background-color: #dddddd;
+}
+
+/* Breadcrumb actif lors d'un edit >> event */
+.kl_sousMenu a.active span, .kl_sousMenu a.active i {
+    color: #ea2161;
+}

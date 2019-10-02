@@ -1,0 +1,1 @@
+ALTER TABLE `configuration_bornes` ADD `is_active_catalogue_cadre` TINYINT(1) NOT NULL DEFAULT '0' AFTER `type_mise_en_page_id`, ADD `catalogue_cadre_id` INT NULL AFTER `is_active_catalogue_cadre`;

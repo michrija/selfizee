@@ -1,0 +1,1 @@
+ALTER TABLE `photos` ADD `date_corbeille` DATETIME NULL AFTER `queue_crobeille`; ALTER TABLE `photos` ADD `date_corbeille` DATETIME NULL AFTER `queue_crobeille`;

@@ -1,0 +1,43 @@
+* {
+    color: #444444;
+    font-size: 13px;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.table tr td {
+    vertical-align: middle !important;
+}
+
+.table tr td.b-r {
+    border-top: none;border-right: 1px solid #dddddd;border-bottom: none;
+}
+
+.table tr td.n-b {
+    border: none;
+}
+
+.table tr td.n-p {
+    padding: 0;
+}
+
+.table tr td.pl-30 {
+    padding-left: 30px;
+}
+.table tr td.pl-60 {
+    padding-left: 60px;
+}
+
+footer {
+    border-top: 1px solid #444444;
+    padding-top: 10px;
+    position: fixed; 
+    bottom: -45px; 
+    left: 0px; 
+    right: 0px;
+    height: 50px; 
+
+    /** Extra personal styles **/
+}

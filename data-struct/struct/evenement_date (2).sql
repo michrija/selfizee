@@ -1,0 +1,1 @@
+ALTER TABLE `selfizeev2`.`evenements`     CHANGE `date_debut` `date_debut` DATETIME NULL ,     CHANGE `date_fin` `date_fin` DATETIME NULL ;//

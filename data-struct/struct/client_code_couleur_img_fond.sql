@@ -1,0 +1,1 @@
+ALTER TABLE `clients`     ADD COLUMN `code_couleur_principal` VARCHAR(250) DEFAULT '#e72763' NULL AFTER `acces_mise_en_page`,     ADD COLUMN `img_fond_login` VARCHAR(250) NULL AFTER `code_couleur_principal`;

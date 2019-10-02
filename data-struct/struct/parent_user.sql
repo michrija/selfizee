@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `parent_id` INT(11) NULL AFTER `client_id`;

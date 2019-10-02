@@ -1,0 +1,74 @@
+.card.card-custom-selfizee-color .card-header {
+    background: #f3f3f3;
+    display: block !important;
+    border: none;
+    border-radius: 0px;
+    text-transform: uppercase;
+}
+
+.kl_customCssCadre{
+	color: black;
+	font-weight: 500;
+	font-size: 15px;
+}
+
+
+.card.card-custom-selfizee-color .card-body {
+    background: #f6f7f9;
+    font-size: 15px;
+}
+
+.card.card-new-selfizee > .card-header {
+    background: none;
+    border-bottom: 0;
+    color: black;
+    font-weight: 500;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.card.card-new-selfizee > .card-header > h4 {
+    color: black;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+
+.kl_grayAstuce {
+    background: #f8f9fb;
+    padding: 15px;
+    color: #a3a3a3;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.kl_iconSup{
+    color: black;
+}
+
+.kl_textAstuce {
+    float: left;
+    width: 92%;
+}
+
+.kl_iconSupInAstuce {
+    float: left;
+    color: black;
+    font-weight: 500;
+    height: 100%;
+    width: 8%;
+}
+
+#id_configEmail label {
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.kl_noPaddingLeft {
+    padding-left: 0px;
+}
+
+.kl_creditRestantValue {
+    font-weight: 500;
+}

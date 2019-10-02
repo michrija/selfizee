@@ -1,0 +1,223 @@
+.kl_titreBlocCadre {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.kl_theTitreCadreBlock{
+	text-align: left;
+    font-weight: 500;
+    color: black;
+    padding-left: 0px;
+}
+
+.kl_theActionIntitre{
+	text-align: right;
+}
+
+.kl_titreBlocCadre {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: 1px solid rgba(120, 130, 140, 0.13);
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.kl_titreBlocCadre .kl_theTitre {
+    font-weight: 500;
+    color: black;
+}
+
+.kl_theActionIntitre {
+    font-size: 14px;
+    text-align: right;
+    color: #999;
+    font-weight: 400;
+}
+
+.kl_titreWithIconChecked.checked i {
+    color: seagreen; 
+}
+
+.kl_titreWithIconChecked.unchecked i {
+    color: lightgray; 
+}
+
+.kl_titreWithIconChecked i{
+	 font-size: 21px;
+    padding-right: 15px;
+}
+
+.kl_titreWithIconChecked {
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.kl_titreAndDescription{
+	width: 100%;
+    padding-left: 0px;
+}
+
+.kl_actionBtn{
+	text-align: right;
+    padding-right: 0px;
+}
+
+.btn-customSelfizee{
+    background: #e72763 !important;
+    border: 1px solid #e72763 !important;
+    font-family: Montserrat;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 100;
+}
+
+.btn-customSelfizeeConfigured{
+	background: #f0f2f6 !important;
+    border: 1px solid #f0f2f6 !important;
+    font-family: Montserrat;
+    color: black;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 500;
+}
+
+.btn-customSelfizeeUnConfigured{
+	background: gray !important;
+    border: 1px solid gray !important;
+    font-family: Montserrat;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 500;
+}
+
+.btn-customSelfizee:hover {
+    color: white;
+}
+
+.kl_codeBorne {
+    background: #f0f2f6;
+    margin: 0px !important;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+}
+.kl_titreCodeBorne {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.kl_theCodeBorneValue {
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-top: 8px;
+}
+
+
+.kl_recapCode {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    color: black;
+}
+
+.kl_titreRecap {
+    text-transform: uppercase;
+    font-weight: 500;
+    
+}
+
+.kl_detailRecap {
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.kl_recapAndCode {
+    margin-top: 20px;
+}
+
+.kl_linkToListeFonctionnalite, .kl_linkToListeFonctionnalite:hover {
+	color: #e72763;
+	font-weight: 500;
+}
+
+.kl_linkToListeFonctionnalite:hover {
+	text-decoration: underline;
+ }
+
+ .kl_theActionIntitre.kl_titreLink {
+    padding-right: 0px;
+}
+
+.kl_iconInterogation {
+    display: inline-block;
+    background: #f2f2f2;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    border-radius: 22px;
+    color: #d0d0d0;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.kl_descriptionAndDetailFonction {
+    color: black;
+    font-weight: 300;
+    font-size: 15px;
+    padding-left: 37px;
+    padding-top: 10px;
+}
+
+span.kl_keyDesc {
+    font-weight: 500;
+}
+
+.kl_oneFonctionActivedInList {
+    border-bottom: 1px solid rgba(120, 130, 140, 0.13);
+    padding: 1.25rem;
+    margin: 0px;
+}
+
+.kl_valueDesc.kl_actif{
+	color: green;
+	font-weight: 500;
+}
+
+.kl_valueDesc.kl_inactif{
+    color: red;
+    font-weight: 500;
+}
+
+.card-body-custom {
+    padding: 20px 0px;
+}
+
+#id_listeFonctionInBoard .kl_oneOption{
+   border-bottom: 1px solid rgba(120, 130, 140, 0.13); 
+}
+
+.kl_actionBtnConf {
+    text-align: right;
+}
+
+div#id_listeFonctionInBoard {
+    padding: 20px;
+}
+
+span.kl_valueDesc {
+    font-weight: 300;
+}
+
+.col-md-6.kl_theActionIntitre.kl_theActonTitreInBoard {
+    padding-right: 0;
+}

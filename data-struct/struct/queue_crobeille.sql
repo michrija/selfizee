@@ -1,0 +1,1 @@
+ALTER TABLE `photos` ADD `queue_crobeille` VARCHAR(250) NULL AFTER `source_upload`; 

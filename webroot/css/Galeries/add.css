@@ -1,0 +1,14 @@
+.custom-control-label::before, .custom-control-label::after {
+ /*    right: -30px !important; */
+  /*  left: auto; */
+
+}
+.custom-control {
+    padding-left: 0px;
+}
+.custom-control-label{
+margin-left: 5%;
+}
+.custom-checkbox{
+	margin-left: 1%;
+}

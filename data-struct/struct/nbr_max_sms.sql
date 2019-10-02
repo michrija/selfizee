@@ -1,0 +1,1 @@
+ALTER TABLE `sms_configurations` ADD `is_active_limite_nbr_sms` TINYINT(1) NOT NULL DEFAULT '0' AFTER `nbr_sms`, ADD `nbr_max_sms` INT(11) NULL AFTER `is_active_limite_nbr_sms`;

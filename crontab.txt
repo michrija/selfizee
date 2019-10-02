@@ -1,0 +1,58 @@
+#cron ajout création galerie automatique pour les événements
+#*/5 * * * * cd /home/manager-selfizee/public_html && bin/cake Gestioncron addCronEvenemement
+#cron suppression galerie automatqiue
+#*/7 * * * * cd /home/manager-selfizee/public_html && bin/cake Gestioncron removeCronEvenemement
+#cron pour ajout de cron pour l'envoi et création de gallerie
+#*/2 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron addCron
+#cron pour la supression des cron desactivé ou date fin
+#*/3 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron removeCron
+
+-----------
+
+#cron de generation des thumbnails
+*/1 * * * * cd /home/manager-selfizee/public_html && bin/cake photo generateThumbEvenement
+#cron ajout programation facebook
+*/7 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron addCronFacebook
+#cron pour la suppresion de facebook auto
+*/7 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron removeCronFacebook
+#cron de création de galerie automatique
+*/3 * * * * cd /home/manager-selfizee/public_html/ && bin/cake photo import
+#envoi de mail et sms automatique
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake photo envoi
+#Ce qui suit sont les crons ajouter via php
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 22
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 22
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 23
+
+----
+
+
+#cron de generation des thumbnails
+*/1 * * * * cd /home/manager-selfizee/public_html && bin/cake photo generateThumbEvenement
+#cron ajout programation facebook
+*/7 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron addCronFacebook
+#cron pour la suppresion de facebook auto
+*/7 * * * * cd /home/manager-selfizee/public_html/ && bin/cake Gestioncron removeCronFacebook
+#cron de création de galerie automatique
+*/3 * * * * cd /home/manager-selfizee/public_html/ && bin/cake photo import
+#import contact via csv
+*/4 * * * * cd /home/manager-selfizee/public_html/ && bin/cake photo
+#envoi de mail et sms automatique
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake photo envoi
+
+
+--------
+
+# Détection visage tous les heures
+00 */1 * * * cd /home/manager-selfizee/public_html/ && bin/cake evenement
+
+
+#Ce qui suit sont les crons ajouter via php
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 22
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 23
+*/5 * * * * cd /home/manager-selfizee/public_html/ && bin/cake AutoPostFacebook postByIdFacebookAuto 24
+
+
+
+
+

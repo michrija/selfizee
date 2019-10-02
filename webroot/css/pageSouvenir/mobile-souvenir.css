@@ -1,0 +1,108 @@
+@media screen and (min-width :1200px)
+{
+    .kl_container.container{width:1000px;}
+}
+@media screen and (min-width :992px) and (max-width :1199px)
+{
+    
+}
+@media screen and (max-width :991px)
+{
+  .pull-right.kl_listSocial img{max-width:100%;}
+  /*.kl_listSocial li{width:39px;}*/
+  .kl_contShareSocial .kl_titleShare{padding-top: 8px;}
+  
+  #id_modalGalerie .modal-dialog{width: 95%;}
+}
+@media screen and (min-width :768px) and (max-width :991px)
+{
+    .kl_contForm{margin-left:15px;}
+    .kl_titleHeader h1,.kl_titleHeader span{margin-top: 0px; font-size:27px; margin-bottom: 0;}
+    #id_modalGalerie .carousel-control.right{right:-163px;}
+    .kl_menuTopHeader{padding-left: 0;}
+    .kl_menuTopHeader > li{margin-left: 5px;}
+    .kl_contForm input[type="text"]{width: 75px;}
+}
+@media screen and (max-width :767px)
+{
+    .kl_menuTopHeader{display:none;}
+    .kl_textHeader .kl_socialHeader{display: none;}
+    .kl_filterSelect.kl_filterDesktop{display: none;}
+    .kl_marginTop75{margin-top: 0px;}
+    .kl_contForm.kl_searchMobile{display: block; margin-top: 0px; text-align: center;}
+    .kl_contForm.kl_searchMobile form{display: inline-block;}
+    .kl_socialHeader.text-center{padding-left: 0px !important;margin-top: 10px;}
+    .kl_contForm{display: none;}
+    /*.col-md-7.col-sm-6.kl_conLeftModal{height: 435px;}*/
+    .kl_boxHeaderModal{display: none !important;}
+    .kl_rightModal{padding-top: 0px !important;}
+    .carousel-inner > .item{height: auto;}
+    .col-md-7.col-sm-6.kl_conLeftModal{height: auto !important;}
+    .navMobile .kl_signOut > a{ color: #000; font-size:14px!important;}
+    .kl_socialHeader img{width: 35px;}
+    .navMobile .kl_signOut{padding-bottom: 10px;display: block;}
+    .kl_filterSelect .form-group{margin-right: 0;}
+    .kl_signOut{display: none;}
+    .kl_filterSelect label{min-width: 40px;}
+    
+  .kl_content{padding:12px 15px 27px;}
+  .kl_listSocial li{margin-left: 5px; margin-bottom: 4px;}
+  .kl_contActionImage img {height: auto;width: 20px;}
+  .pull-right.kl_listSocial{float: left !important;}
+  .kl_conComment{margin-top: 10px;}
+  .kl_ChamComs textarea{height: 80px;}
+  .kl_ChamComs .col-xs-2{padding-left: 0px;}
+  .kl_socialFooter ul li{width: 39px;}
+  .pull-left.kl_nbrCommentaire{margin-bottom: 5px;}
+  .kl_ChamComs{margin-top: 10px;margin-bottom: 14px;    padding-top: 15px;    padding-bottom: 12px;}
+  .kl_ChamComs .col-xs-10.col-sm-11{padding-right: 0px !important;}
+  .kl_container.container{padding: 0px;}
+/*  .kl_imageHeader{border-bottom:6px solid #d31830;}*/
+  
+  
+  .kl_blocDesc::after,.kl_blocDesc::before{background: none !important;}
+  .kl_blocDesc{width: 100%; box-shadow: none !important;}
+  .kl_topGalerie{position: static;}
+    .kl_titleHeader h1,.kl_titleHeader span{margin-top: 0px; font-size:25px;}
+    .kl_contForm{margin-left:0px;margin-top: 10px;}
+    .kl_filterBtn ul li{margin-right: 0;margin-bottom: 5px;}
+    .kl_filterSelect .form-group{display: inline-block;}
+    .kl_baniereGal img{height: 100%; width: auto; max-width: inherit;min-width: 100%;}
+    .kl_baniereGal{height: 200px; overflow: hidden;}
+    .kl_topHeader .pull-left,.kl_topHeader .pull-right{float:none !important; text-align: center;}
+    .pull-right.kl_contForm form{display:inline-block;}
+    .kl_menuTopHeader{padding-left: 0;}
+    .carousel-inner .item > img{max-height: 100%;}
+  .imgBanHaut {
+      padding-left: 15px;
+      width: auto;
+      text-align: center;
+      margin: auto;
+      padding-right: 15px;
+  }
+}
+@media screen and (min-width :480px) and (max-width :767px)
+{
+    
+}
+@media screen and (max-width :374px)
+{
+    
+  .pull-right.kl_triCommentaire,.pull-left.kl_nbrCommentaire{float: none !important;}
+  .kl_conComment div{text-align: center;}
+  .pull-right.kl_triCommentaire{display:inline-block;}
+  .kl_contShareSocial{text-align: center;}
+    .tiles-wrap > li{width: 100% !important; left:0px !important;}
+    #wookmark1 li > img{width: 100% !important;}
+    .kl_blocDesc::after{width: 0px !important;}
+    .kl_filterBtn{margin-top: 0px !important;}
+    #wookmark1{margin-top: 0px !important;}
+    #id_modalGalerie .carousel-control.right{right:-47px !important;}
+}
+@media screen and (max-width :479px)
+{
+    .kl_boxHeaderModal{height: 150px;overflow: hidden;}
+    .kl_boxHeaderModal .kl_titleHeader{padding-top: 15px;}
+    .kl_boxHeaderModal>img{height: 100%; width: auto;max-width: inherit;}
+    #id_modalGalerie .carousel-control.right{right:-47px !important;}
+}

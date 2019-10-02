@@ -1,0 +1,1 @@
+ALTER TABLE `disposition_vignettes` ADD `type_animation_id` INT NULL AFTER `nbr_pose`; 

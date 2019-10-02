@@ -1,0 +1,24 @@
+img.sf-editeur-photo{
+	background-color: #CCC;
+	padding: 6px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	width: 150px;
+	max-height: 150px;
+	object-fit: contain;
+}
+#informationModal .sf-bg-grey{
+	background-color: #EEE;
+	padding: 8px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+#informationModal .img-responsive{
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	max-height: 300px;
+	display: inline-block;
+}

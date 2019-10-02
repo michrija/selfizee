@@ -1,0 +1,63 @@
+﻿# CakePHP specific files #
+##########################
+/config/app.php
+/config/app_selfizee.php
+/config/.env
+/logs/*
+/tmp/*
+/vendor/*
+/webroot/import/*
+/webroot/tmp/*
+/webroot/upload/tmp/*
+/dev/*
+/dev/sans_csv/JEANNE/*
+webroot/*.setting
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Tool specific files #
+#######################
+# vim
+*~
+*.swp
+*.swo
+# sublime text & textmate
+*.sublime-*
+*.stTheme.cache
+*.tmlanguage.cache
+*.tmPreferences.cache
+# Eclipse
+.settings/*
+# JetBrains, aka PHPStorm, IntelliJ IDEA
+.idea/*
+# Sublime text
+.phpintel/*
+# NetBeans
+nbproject/*
+# Visual Studio Code
+.vscode
+# Sass preprocessor
+.sass-cache/
+webroot/BG_PRISE.jpg
+webroot/BG_MERCI.jpg
+webroot/BG_LAYOUT.jpg
+webroot/BG_FOND_VERT.jpg
+webroot/BG_FOND.jpg
+webroot/BG_FILTRE.jpg
+webroot/BG_ACCUEIL.jpg
+webroot/786.setting
+vendor_old/
+config/app_selfizee_save.php
+config/app_selfizee.php
+config/app.php
+BO event_clcs.csprj
+acces.txt

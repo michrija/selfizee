@@ -1,0 +1,1 @@
+ALTER TABLE `clients_customs` ADD `ps_couleur_download_link` VARCHAR(250) NULL AFTER `ps_couleur_de_fond`; 

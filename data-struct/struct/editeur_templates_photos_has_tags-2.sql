@@ -1,0 +1,1 @@
+ALTER TABLE `editeur_templates_photos_has_tags` ADD `created` DATETIME NULL AFTER `tag_id`;

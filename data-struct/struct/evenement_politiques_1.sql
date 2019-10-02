@@ -1,0 +1,1 @@
+ALTER TABLE `evenement_politiques` ADD `nom_client` VARCHAR(150) NULL AFTER `evenement_id`;

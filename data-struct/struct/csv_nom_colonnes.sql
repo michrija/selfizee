@@ -1,0 +1,1 @@
+ALTER TABLE `csv_colonnes` ADD `nom_colonne_in_photo` VARCHAR(250) NULL AFTER `nom`; 

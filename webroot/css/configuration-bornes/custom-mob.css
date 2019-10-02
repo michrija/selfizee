@@ -1,0 +1,174 @@
+@media only screen and (max-width: 1920px) {
+	.sf-box-catalogue figure{
+		height: 140px;
+	}
+	.sf-box-catalogue img{
+		max-height: 140px;
+	}
+	.sf-bloc-detail-borne {
+		background-size: 53%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:150px;
+		width:33%;
+	}
+	
+	.sf-bloc-apercu_ecran_classik {
+		top:170px;
+		width: 33%;
+	}
+}
+
+@media only screen and (max-width: 1440px) {
+	.sf-box-catalogue figure{
+		height: 140px;
+	}
+	.sf-box-catalogue img{
+		max-height: 140px;
+	}
+	.sf-bloc-detail-borne {
+		background-size: 70%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:150px;
+		width:43%;
+	}
+	.sf-bloc-apercu_ecran_classik {
+		top:170px;
+		width: 43%;
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	
+	.sf-box-catalogue figure{
+		height: 140px;
+	}
+	.sf-box-catalogue img{
+		max-height: 140px;
+	}
+	.sf-bloc-detail-borne {
+		background-size: 75%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:150px;
+		width:47%;
+	}
+	.sf-bloc-apercu_ecran_classik {
+		top:165px;
+		width: 47%;
+	}
+	
+}
+
+@media only screen and (max-width: 1280px) {
+	
+	.sf-box-catalogue figure{
+		height: 140px;
+	}
+	.sf-box-catalogue img{
+		max-height: 140px;
+	}
+	.sf-bloc-detail-borne {
+		background-size: 80%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:150px;
+		width:50%;
+	}	
+	.sf-bloc-apercu_ecran_classik {
+		top:165px;
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 1200px) {
+	.sf-box-catalogue figure{
+		height: 140px;
+	}
+	.sf-box-catalogue img{
+		max-height: 140px;
+	}
+	.sf-bloc-detail-borne {
+		background-size: 80%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:170px;
+		width:50%;
+	}
+	.btn_active_theme {
+		padding-left:3px;
+	}
+	.sf-bloc-apercu_ecran_classik {
+		top:185px;
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.sf-bloc-detail-borne {
+		background-size: 85%;
+	}
+	.sf-bloc-apercu_ecran_spherik {
+		top:185px;
+		width:50%;
+	}
+	
+	.sf-bloc-apercu_ecran_classik {
+		top:210px;
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 960px) {
+	
+	.sf-bloc-apercu_ecran_spherik {
+		top:210px;
+		width:50%;
+	}
+	.sf-bloc-apercu_ecran_classik {
+		top:225px;
+		width: 50%;
+	}
+	
+}
+
+@media only screen and (max-width: 768px) {
+	
+	.sf-bloc-apercu_ecran_spherik {
+		top:260px;
+		width:50%;
+	}
+	.sf-bloc-apercu_ecran_classik {
+		top:270px;
+		width:50%;
+	}
+	
+}
+
+@media only screen and (max-width: 740px) {
+	
+}
+
+@media only screen and (max-width: 580px) {
+         
+}
+
+@media only screen and (max-width: 480px) {
+	
+}
+
+@media only screen and (max-width: 414px) {
+	
+}
+@media only screen and (max-width: 375px) {
+	
+}
+
+@media only screen and (max-width: 360px) {
+	
+}
+
+@media only screen and (max-width: 320px) {
+	
+}

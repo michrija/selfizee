@@ -1,0 +1,1 @@
+ALTER TABLE `champs` ADD `is_required` BOOLEAN NULL DEFAULT FALSE AFTER `configuration_borne_id`; 

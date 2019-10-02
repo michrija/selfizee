@@ -1,0 +1,1 @@
+ALTER TABLE `evenements` ADD `lieu` VARCHAR(250) NOT NULL AFTER `date_fin`; 

@@ -1,0 +1,1 @@
+ALTER TABLE `sms_configurations` ADD `clients_modeles_sms_id` INT NULL AFTER `nbr_sms`;

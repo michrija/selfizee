@@ -1,0 +1,1 @@
+ALTER TABLE `envoi_email_statistiques` ADD `blocked` BOOLEAN NULL DEFAULT FALSE AFTER `event_type`, ADD `hard_bounce` BOOLEAN NULL DEFAULT FALSE AFTER `blocked`, ADD `error_related_to` VARCHAR(250) NULL AFTER `hard_bounce`; 

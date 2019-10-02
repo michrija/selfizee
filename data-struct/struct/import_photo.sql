@@ -1,0 +1,2 @@
+ALTER TABLE `photos` ADD `type_media` ENUM('photo','video') NULL DEFAULT 'photo' AFTER `visiteur_id`, ADD `is_miniature_video_generated` BOOLEAN NULL DEFAULT FALSE AFTER `type_media`, ADD `miniuatre_video` VARCHAR(255) NULL AFTER `is_miniature_video_generated`;
+ALTER TABLE `photos` CHANGE `miniuatre_video` `miniature_video` VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;

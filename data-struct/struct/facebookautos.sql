@@ -1,0 +1,1 @@
+ALTER TABLE `selfizeev2`.`facebook_autos`     ADD COLUMN `is_active` BOOL NULL AFTER `name_album_in_facebook`,     ADD COLUMN `date_debut` DATETIME NULL AFTER `is_active`,     ADD COLUMN `date_fin` DATETIME NULL AFTER `date_debut`,     ADD COLUMN `intervalle_id` INT NOT NULL AFTER `date_fin`;
